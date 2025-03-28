@@ -1,0 +1,105 @@
+/* DSA Fonts */
+/* TODO: fix the prefixes when moving to non-subdirectory domain*/
+@font-face {
+    font-family: 'Greycliff L';
+    src: local(''),
+         url('/oma-dsa-ex/fonts/Greycliff/GREYCLIFFCF-LIGHT.OTF') format('opentype'),
+  }
+
+  @font-face {
+    font-family: 'Styrene BL';
+    src: local(''),
+         url('/oma-dsa-ex/fonts/Styrene/StyreneB-Black.otf') format('opentype'),
+  }
+
+  @font-face {
+    font-family: 'Styrene B';
+    src: local(''),
+         url('/oma-dsa-ex/fonts/Styrene/StyreneB-Bold.otf') format('opentype'),
+  }
+
+  @font-face {
+    font-family: 'Styrene';
+    src: local(''),
+         url('/oma-dsa-ex/fonts/Styrene/StyreneB-Regular.otf') format('opentype'),
+  }
+
+.sidebar-about h1 {
+    font-family: "Styrene B", sans-serif;
+}
+
+.post-title {
+    font-size: 1.75rem;
+    font-family: "Styrene BL", sans-serif;
+}
+
+h2, .title {
+    font-family: "Styrene B", sans-serif;
+}
+
+h3, h4, h5, h6 {
+    font-family: "Styrene", sans-serif;
+}
+
+.previous-post, .next-post {
+    font-size: 0.75rem;
+    font-family: "Styrene", sans-serif;
+    width: 40%
+}
+
+p, .entries .title, .published {
+    font-family: "Styrene", sans-serif;
+}
+
+.post-date, .reading-time, .lead, .footnote {
+    font-size: 0.75rem;
+    font-family: "Greycliff L", sans-serif;
+}
+
+/* Main Menu */
+.heading {
+    font-family: "Styrene", sans-serif;
+    margin: 0.5rem;
+}
+
+.sidebar {
+    scrollbar-width: none;
+}
+
+/* Mobile */
+@media screen and (max-width: 480px) {
+    .footnote {
+        display: none;
+    }
+
+    .sidebar img{
+        max-height: 4rem;
+        max-width: 4rem;
+    }
+
+    .lead {
+        font-size: 1rem;
+    }
+
+    .social {
+        --display: none
+    }
+
+    .sidebar {
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+    }
+
+    .published .pull-right {
+        display: none
+    }
+
+    li::after {
+        background-image: none !important;
+    }
+
+    li .title {
+        text-align: center;
+        width: 100%;
+    }
+  }

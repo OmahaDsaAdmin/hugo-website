@@ -1,0 +1,74 @@
+baseURL = "https://omahadsa.org"
+languageCode = "en-us"
+theme = "poison"
+pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
+
+[params]
+    brand = "Omaha DSA"                      # name of your site - appears in the sidebar
+    remote_brand_image = 'https://dsanebraska.org/wp-content/uploads/2017/05/site-icon.png' # path to a remote file
+    #brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
+    description = "Democratic Socialists of America" # Used as default meta description if not specified in front matter
+    dark_mode = false                      # optional - defaults to false
+    favicon = "https://dsanebraska.org/wp-content/uploads/2017/05/site-icon.png"             # path to favicon (defaults to favicon.png)
+    hideToc = true
+    noSummary = true
+
+    front_page_content = ["about"] # Equivalent to the default value, add page bundle names to include them on the front page.
+
+    # MENU
+        # Name:         The name to display on the menu.
+        # URL:          The directory relative to the content directory.
+        # HasChildren:  If the directory's files should be listed.  Default is true.
+        # Limit:        If the files should be listed, how many should be shown.
+    menu = [
+        {Name = "Join", URL = "/join/", HasChildren = false},
+        {Name = "Events", URL = "/events/", HasChildren = false},
+        {Name = "Resources", URL = "/resources/", HasChildren = false},
+        {Name = "Shop", URL = "/shop/", HasChildren = false},
+        {Name = "Posts", URL = "/posts/", HasChildren = false, Limit = 5},
+    ]
+
+    # Links to your socials.  Comment or delete any you don't need/use. 
+    discord_url = "https://discord.com"
+    email_url = "mailto://user@domain"
+    facebook_url = "https://facebook.com"
+    youtube_url = "https://youtube.com"
+    bluesky_url = "https://bsky.app"
+
+    # NOTE: If you don't want to use RSS, comment or delete the following lines
+    # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml
+    rss_icon = true
+    # Which section the RSS icon links to, defaults to all content. See https://gohugo.io/templates/rss/#section-rss
+    #rss_section = "posts"
+
+    # Hex colors for your sidebar.
+    moon_sun_background_color = "#ea2128"   # default is #515151
+    moon_sun_color = "#FFF"                 # default is #FFF
+    sidebar_a_color = "#FFF"                # default is #FFF
+    sidebar_bg_color = "#ea2128"            # default is #202020
+    sidebar_h1_color = "#FFF"               # default is #FFF
+    sidebar_img_border_color = "#f6a3a8"    # default is #515151
+    sidebar_p_color = "#fbd3d4"             # default is #909090
+    sidebar_socials_color = "#fbd3d4"          # default is #FFF
+
+    # Hex colors for your content in light mode.
+    code_color = "#000"                     # default is #000
+    code_background_color = "#E5E5E5"       # default is #E5E5E5
+    code_block_color = "#FFF"               # default is #FFF
+    code_block_background_color = "#272822" # default is #272822
+    content_bg_color = "#FAF9F6"            # default is #FAF9F6
+    date_color = "#515151"                  # default is #515151
+    link_color = "#ef4e54"                  # default is #268BD2
+    list_color = "#ef4e54"                  # default is #5A5A5A
+    post_title_color = "#231e1e"            # default is #303030
+    table_border_color = "#E5E5E5"          # default is #E5E5E5
+    table_stripe_color = "#F9F9F9"          # default is #F9F9F9
+    text_color = "#222"                     # default is #222
+
+[taxonomies]
+    series = 'series'
+    tags = 'tags'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
