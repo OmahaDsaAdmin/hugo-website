@@ -18,3 +18,10 @@ Here are some key concepts to understand:
 2. [Markdown Editor](https://stackedit.io/app#)
 3. [Poison docs](https://github.com/lukeorth/poison)
 4. [DSA Styleguide:](https://design.dsausa.org/resources/)
+
+## Reccomendations
+
+Run the following commands to sign commits as the admin user:
+
+`git config user.name OmahaDsaAdmin`
+`git config user.email omahadsa@gmail.com`
