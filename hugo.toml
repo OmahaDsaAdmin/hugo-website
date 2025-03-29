@@ -23,17 +23,17 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     menu = [
         {Name = "Join", URL = "/join/", HasChildren = false},
         {Name = "Events", URL = "/events/", HasChildren = false},
-        {Name = "Resources", URL = "/resources/", HasChildren = false},
+        {Name = "Get Involved", URL = "/get-involved/", HasChildren = false},
         {Name = "Shop", URL = "/shop/", HasChildren = false},
         {Name = "Posts", URL = "/posts/", HasChildren = false, Limit = 5},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
-    discord_url = "https://discord.com"
-    email_url = "mailto://user@domain"
-    facebook_url = "https://facebook.com"
-    youtube_url = "https://youtube.com"
-    bluesky_url = "https://bsky.app"
+    #discord_url = "https://discord.com"
+    email_url = "mailto:omahadsa@gmail.com"
+    #facebook_url = "https://facebook.com"
+    #youtube_url = "https://youtube.com"
+    #bluesky_url = "https://bsky.app"
 
     # NOTE: If you don't want to use RSS, comment or delete the following lines
     # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml
@@ -59,7 +59,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     content_bg_color = "#FAF9F6"            # default is #FAF9F6
     date_color = "#515151"                  # default is #515151
     link_color = "#ef4e54"                  # default is #268BD2
-    list_color = "#ef4e54"                  # default is #5A5A5A
+    list_color = "#515151"                  # default is #5A5A5A
     post_title_color = "#231e1e"            # default is #303030
     table_border_color = "#E5E5E5"          # default is #E5E5E5
     table_stripe_color = "#F9F9F9"          # default is #F9F9F9

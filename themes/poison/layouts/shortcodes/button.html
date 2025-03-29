@@ -1,0 +1,19 @@
+{{ $body := .Inner }}
+{{ $href := .Get "href" }}
+
+<a class="btn-red" href={{ $href }}>
+   {{ $body | markdownify }}
+</a>
+
+<style>
+    .btn-red {
+        background-color: #e70109;
+        color: white;
+        font-family: "Styrene B";
+        border-width: 2px;
+        border-radius: 4px;
+        line-height: 1;
+        padding: 0.75rem 0.75rem 0.625rem;
+        margin-top: 1.5rem
+    }
+</style>
