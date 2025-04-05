@@ -16,7 +16,7 @@ But one hope remains: **You**.
 
 If you're reading this, it means you went to the April 5th _Remove Reverse Reclaim_ rally to protest our nation's descent into fascism. You recognize the only way to beat the right is through grass-roots organized activism.
 
-**_[Which is why you should join the Omaha DSA!](/join)_**
+**_[Which is why you should join the Omaha DSA!](#mailing-list)_**
 
 - We're organized.
 - We're working class.
@@ -27,8 +27,6 @@ If you're reading this, it means you went to the April 5th _Remove Reverse Recla
 - We're part of a nationwide nonprofit with over a million members, endorsed by Bernie Sanders.
 - We're fighting fascism right here in Omaha.
 
-Our membership is exploding, but we need every leftist in this husker-red state to join us. Please, follow the instructions on the following page to [join the Omaha DSA](/join).
+Our membership is exploding, but we need every leftist in this husker-red state to join us. Please, follow the instructions on the following page to [join the Omaha DSA](/#mailing-list).
 
-In Solidarity,
-
-The Omaha DSA
+{{< actionNetwork >}}
