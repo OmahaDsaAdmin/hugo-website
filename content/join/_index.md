@@ -9,3 +9,9 @@ layout: single
 ## Contact the Chapter
 
 After you become a national member, send an email to [omahadsa@gmail.com](mailto:omahadsa@gmail.com) to let us know you're a new member in our area. We're organizing in eastern Nebraska and parts of western Iowa.
+
+## Keep in Touch
+
+Most importantly, make sure you sign up for our chapter's mailing list so you can keep up with our latest activities:
+
+{{< actionNetwork >}}
