@@ -26,3 +26,9 @@ At-large members across the state actively organize and strategize with the Linc
 If you’d like to get connected with them, send an email to [dsalincoln@gmail.com](mailto:dsalincoln@gmail.com)
 
 You can use the national DSA’s [chapter lookup tool](https://chapters.dsausa.org/) to find your local chapter by zip code, or to learn more about organizing a chapter in other parts of the state.
+
+### Stay Informed - Join the Fight
+
+Omaha DSA is organizing right now. If you support democracy and the working class, sign-up for our mailing list to join the fight for positive change in our city.
+
+{{< actionNetwork >}}
