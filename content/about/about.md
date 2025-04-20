@@ -7,6 +7,8 @@ layout: single
 
 We are a political and activist organization, not a party; through campus and community-based chapters, DSA members use a variety of tactics, from legislative to direct action, to fight for reforms that empower working people.
 
+![fraying american flag blowing in the wind](/images/Flag_Focused_001.webp)
+
 ## Who We Are
 
 The Democratic Socialists of America is the largest socialist organization in the United States, with over 92,000 members and chapters in all 50 states.
