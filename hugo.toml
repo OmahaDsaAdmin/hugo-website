@@ -5,7 +5,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [params]
     brand = "Omaha DSA"                      # name of your site - appears in the sidebar
-    remote_brand_image = 'https://dsanebraska.org/wp-content/uploads/2017/05/site-icon.png' # path to a remote file
+    remote_brand_image = '/images/omaha-logo.webp' # path to a remote file
     #brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
     description = "Democratic Socialists of America" # Used as default meta description if not specified in front matter
     dark_mode = false                      # optional - defaults to false
