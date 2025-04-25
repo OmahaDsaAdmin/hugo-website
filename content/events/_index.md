@@ -4,8 +4,27 @@ draft: false
 layout: single
 ---
 
-## RRR Rally, April 5 2025 - Memorial Park - 1 PM to 3 PM
+## Chapter General Meetings
 
-Omaha DSA members will be attending this rally to show solidarity with leftist coalitions in the area. We support the "Removal, Reversal, and Reclamation" of the levers of power Donald Trump currently abuses.
+General Meetings are times for chapter membership to gather and discuss what
+we're working on, what we need help with, and what we should be aware of.
+Agendas typically include reports from working groups and committees,
+information on upcoming events, and decision points that need to be voted on.
+If you have never attended a meeting, please feel free to join us. Held monthly
+on the 3rd Monday, 6:00 PM at UNO.
+[RSVP for more details.](https://docs.google.com/document/d/1XQK7C1sK4nRD_mrA3uLIq2J7Pr-jU2ooNO5NhaTUKfo/edit?usp=sharing)
 
-For attendees, we have a specific message: [read it here](/events/rallies/april-5-rrr).
+## Steering Committee Meetings
+
+The Steering Committee is a five member group of officers elected to lead the
+chapter. An interim committee was elected in December 2024 to help Omaha form
+an official DSA chapter; their terms end in July 2025. 
+
+**Co-Chairs:** Joyce V. and David S.  
+**Membership & Outreach Coordinator:** Ryan N.  
+**Treasurer:** Jessi L.  
+**Secretary:** Court B.
+
+Meetings are held twice each month on the 2nd and 4th Wednesdays, 8:00 PM on
+Zoom. All members are welcome to join us.
+[Sign up for access.](https://actionnetwork.org/forms/omaha-dsa-steering-committee-meetings?source=direct_link&)
