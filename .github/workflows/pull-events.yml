@@ -28,7 +28,7 @@ jobs:
         working-directory: .github/scripts/hugo-website-events/
         env:
           API_KEY: ${{ secrets.ACTION_NETWORK_API_KEY }}
-        run: sudo ./hugo-website-events "$API_KEY" "/content/events"
+        run: sudo ./hugo-website-events "$API_KEY" "$GITHUB_WORKSPACE/content/events"
 
       - name: Commit and push changes
         env:
