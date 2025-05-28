@@ -38,4 +38,4 @@ jobs:
           git config user.email "omahadsa@gmail.com"
           git add .
           git commit -m "cron: action network events added via pull-events.yml" || echo "No changes to commit"
-          git push https://x-access-token:${BOT_PAT}@github.com/${{ github.repository }}.git HEAD:events
+          git push https://x-access-token:${BOT_PAT}@github.com/${{ github.repository }}.git HEAD:main
