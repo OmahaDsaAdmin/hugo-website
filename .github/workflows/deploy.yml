@@ -70,6 +70,7 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --buildFuture
       - name: Cache Save
         id: cache-save
         uses: actions/cache/save@v4

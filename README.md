@@ -12,6 +12,10 @@ Here are some key concepts to understand:
 4. To run the site locally, download Go, download Hugo, `git clone` the repo, and use the following terminal command `hugo server`. To stop the local server, use `ctrl+c` in the terminal.
 5. You can also directly modify files through Github, but you won't be able to preview your changes.
 
+### Publish Dates
+
+You may notice that running `hugo server` by itself doesn't render posts or events in the future. To get around this default behavior, use `hugo server --buildFuture` instead.
+
 ## Useful tools and info
 
 1. [Visual Studio Code](https://code.visualstudio.com/)
