@@ -20,10 +20,10 @@ The Steering Committee is a five member group of officers elected to lead the
 chapter. An interim committee was elected in December 2024 to help Omaha form
 an official DSA chapter; their terms end in July 2025.
 
-**Co-Chairs:** David S.  
+**Co-Chairs:** Courtney C. and Renais K.  
 **Membership & Outreach Coordinator:** Ryan N.  
-**Treasurer:** Jessi L.  
-**Secretary:** Court B.
+**Treasurer:** Kacie W.  
+**Secretary:** Kaylar F.
 
 Meetings are held twice each month on the 2nd and 4th Wednesdays, 8:00 PM on
 Zoom. All members are welcome to join us.
