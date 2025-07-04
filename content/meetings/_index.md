@@ -17,14 +17,14 @@ on the 3rd Monday, 6:00 PM at UNO.
 ## Steering Committee Meetings
 
 The Steering Committee is a five member group of officers elected to lead the
-chapter. An interim committee was elected in December 2024 to help Omaha form
-an official DSA chapter; their terms end in July 2025.
+chapter. The current committee was elected in July 2025 and their terms will end next year, July 2026.
 
 **Co-Chairs:** Courtney C. and Renais K.  
 **Membership & Outreach Coordinator:** Ryan N.  
 **Treasurer:** Kacie W.  
 **Secretary:** Kaylar F.
 
-Meetings are held twice each month on the 2nd and 4th Wednesdays, 8:00 PM on
+Meetings are held twice each month on the 2nd and 4th Mondays, 7:00 PM on
 Zoom. All members are welcome to join us.
-[Sign up for access.](https://actionnetwork.org/forms/omaha-dsa-steering-committee-meetings?source=direct_link&)
+[Sign up for access to the 2nd Monday Meetings.](https://dsausa.zoom.us/meeting/register/X_j18Aj7Rlar8rMcPgWHyw#/registration)
+[Sign up for access to the 4th Monday Meetings.](https://dsausa.zoom.us/meeting/register/SvCEDSSfSu-H0Wo-MlA0pw#/registration)
