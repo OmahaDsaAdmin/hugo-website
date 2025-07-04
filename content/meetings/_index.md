@@ -26,5 +26,7 @@ chapter. The current committee was elected in July 2025 and their terms will end
 
 Meetings are held twice each month on the 2nd and 4th Mondays, 7:00 PM on
 Zoom. All members are welcome to join us.
+
 [Sign up for access to the 2nd Monday Meetings.](https://dsausa.zoom.us/meeting/register/X_j18Aj7Rlar8rMcPgWHyw#/registration)
+
 [Sign up for access to the 4th Monday Meetings.](https://dsausa.zoom.us/meeting/register/SvCEDSSfSu-H0Wo-MlA0pw#/registration)
