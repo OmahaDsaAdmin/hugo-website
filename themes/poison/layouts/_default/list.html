@@ -1,5 +1,11 @@
 {{ define "main" }}
   <h1 class="post-title">{{.Title}}</h1>
+  
+  {{/* Only the events page should show "pinned" events */}}
+  {{ if eq .Title "Events" }}
+    {{ partial "pinned_event.html" . }}
+  {{ end }}
+  
   {{ range .Pages }}
     <article>
       <h3 class="title">
