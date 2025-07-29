@@ -22,11 +22,11 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         {Name = "Join", URL = "join/", HasChildren = false},
-        {Name = "Events", URL = "/events/", HasChildren = false},
-        {Name = "Meetings", URL = "/meetings/", HasChildren = false},
-        {Name = "Get Involved", URL = "/get-involved/", HasChildren = false},
-        {Name = "Shop", URL = "/shop/", HasChildren = false},
-        {Name = "Posts", URL = "/posts/", HasChildren = false, Limit = 5},
+        {Name = "Events", URL = "events/", HasChildren = false},
+        {Name = "Meetings", URL = "meetings/", HasChildren = false},
+        {Name = "Get Involved", URL = "get-involved/", HasChildren = false},
+        {Name = "Shop", URL = "shop/", HasChildren = false},
+        {Name = "Posts", URL = "posts/", HasChildren = false, Limit = 5},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
