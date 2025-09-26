@@ -1,7 +1,7 @@
 ---
 title: "The Democratic Party Has Failed"
 date: 2025-03-16
-draft: false
+draft: true
 hideToc: true
 ---
 

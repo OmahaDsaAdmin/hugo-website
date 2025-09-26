@@ -1,0 +1,13 @@
+---
+title: "Harassment and Grievance Officers"
+draft: false
+layout: single
+---
+
+Harassment Grievance Officers (HGO) work to help eradicate harassment in our chapter and to help transform the culture of DSA to create a space that is welcoming and inclusive to members of all genders, races, and classes and ensures that everyone is able to organize without fear of harassment, abuse, or harm.
+
+Omaha DSA follows [National DSA's Harassment Policy](https://www.dsausa.org/about-us/harassment-policy-resolution-33/). Our HGOs will work to resolve your conflicts following these guidelines.
+
+### How to Report Harassment or Grievance
+
+If you are a member and need to contact an HGO or report a conflict, please send an email to [OmahaDsaHgo@gmail.com](mailto:OmahaDsaHgo@gmail.com) describing the issue, or contact one of the chapter HGOs in person.

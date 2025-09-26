@@ -5,6 +5,11 @@
   {{ if eq .Title "Events" }}
     {{ partial "pinned_event.html" . }}
   {{ end }}
+
+  {{/* Only the events page should show "pinned" posts */}}
+  {{ if eq .Title "Posts" }}
+    {{ partial "call_for_writers.html" . }}
+  {{ end }}
   
   {{ range .Pages }}
     <article>
