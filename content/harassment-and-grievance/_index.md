@@ -11,3 +11,13 @@ Omaha DSA follows [National DSA's Harassment Policy](https://www.dsausa.org/abou
 ### How to Report Harassment or Grievance
 
 If you are a member and need to contact an HGO or report a conflict, please send an email to [OmahaDsaHgo@gmail.com](mailto:OmahaDsaHgo@gmail.com) describing the issue, or contact one of the chapter HGOs in person.
+
+### Responsibilities
+
+The HGOs of Omaha DSA are responsible for:
+
+- All responsibilities for HGOs listed in the Harassment Policy of National DSA,
+- Creating and monitoring a distinct email address that is only accessible by the HGOs,
+- Attending trainings provided by National DSA,
+- Developing and maintaining forms and other methods for reporting and responding to accusations of harassment as noted in the Harassment Policy of National DSA, and
+- Developing and maintaining forms for appealing the form of relief determined by the Steering Committee as noted in the Harassment Policy of National DSA.
