@@ -8,6 +8,30 @@ For new members and friends of the chapter, here are some ways you can get invol
 
 But most importantly, [consider joining the movement.](/join)
 
+## 2025 Strategic Priority: Affordable Housing
+
+Housing is a right, not a commodity and the metro area needs housing that works for the working class. For this campaign, Omaha DSA intends to:
+
+- Build a coalition of housing-affordability aligned groups.
+- Support leftist political candidates running on platforms of housing affordability.
+- Pressure local leaders to improve conditions and regulations.
+- Fight back against the criminalization of the homeless.
+- Draft a Tenant's Bill of Rights, and push for it's codification.
+
+## Have a specific interest?
+
+Our chapter has a number of sub-groups where members can collaborate and focus on specific socialist objectives, including:
+
+1. Labor Working Group
+2. Legislative Working Group
+3. Trans Rights and Bodily Autonomy Working Group
+4. Direct Action Working Group
+5. Design Working Group
+6. Mutual Aid and Anti-Consumerism Working Group
+7. Political Education Committee
+8. Tech Committee
+9. Membership and Outreach Committee
+
 ![Amnesty International Letter Writing Campaign](https://www.amnesty.org/en/wp-content/uploads/2023/12/294501-1468x710.jpg)
 
 ## Letter Writing Campaigns
