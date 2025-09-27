@@ -10,13 +10,7 @@ But most importantly, [consider joining the movement.](/join)
 
 ## 2025 Strategic Priority: Affordable Housing
 
-Housing is a right, not a commodity and the metro area needs housing that works for the working class. For this campaign, Omaha DSA intends to:
-
-- Build a coalition of housing-affordability aligned groups.
-- Support leftist political candidates running on platforms of housing affordability.
-- Pressure local leaders to improve conditions and regulations.
-- Fight back against the criminalization of the homeless.
-- Draft a Tenant's Bill of Rights, and push for it's codification.
+Housing is a right, not a commodity and the metro area needs housing that works for the working class. Strong tenant organizing leads to strong tenant legislation and strong tenant power.
 
 ## Have a specific interest?
 
