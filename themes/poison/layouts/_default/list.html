@@ -1,24 +1,31 @@
 {{ define "main" }}
-  <h1 class="post-title">{{.Title}}</h1>
-  
-  {{/* Only the events page should show "pinned" events */}}
-  {{ if eq .Title "Events" }}
-    {{ partial "pinned_event.html" . }}
-  {{ end }}
+<h1 class="post-title">{{.Title}}</h1>
 
-  {{/* Only the events page should show "pinned" posts */}}
-  {{ if eq .Title "Posts" }}
-    {{ partial "call_for_writers.html" . }}
-  {{ end }}
-  
-  {{ range .Pages }}
-    <article>
-      <h3 class="title">
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </h3>
-      {{ .Content | truncate 300 }}
-      <a href="{{ .RelPermalink }}">Read More</a>
-    </article>
-    <br>
-  {{ end }}
+{{/* Only the events page should show "pinned" events */}}
+{{ if eq .Title "Events" }}
+{{ partial "pinned_event.html" . }}
+{{ end }}
+
+{{/* Only the events page should show the calendar of events */}}
+{{ if eq .Title "Events" }}
+{{ partial "calendar.html" . }}
+<br>
+{{ end }}
+
+{{/* Only the events page should show "pinned" posts */}}
+{{ if eq .Title "Posts" }}
+{{ partial "call_for_writers.html" . }}
+{{ end }}
+
+<h1>Event History</h1>
+{{ range .Pages }}
+<article>
+  <h3 class="title">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h3>
+  {{ .Content | truncate 300 }}
+  <a href="{{ .RelPermalink }}">Read More</a>
+</article>
+<br>
+{{ end }}
 {{ end }}

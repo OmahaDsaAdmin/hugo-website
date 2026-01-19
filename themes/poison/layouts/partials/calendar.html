@@ -1,0 +1,114 @@
+<!-- Started with this and made modifications: https://discourse.gohugo.io/t/calendar-snippet/48323 -->
+{{ $rootData := . }}
+{{ $startDate := now.AddDate 0 0 (add 1 (sub 0 now.Day) | int) }}
+{{ $endDate := now.AddDate 0 1 (sub 1 now.Day | int) }}
+{{ $oneDay := time.ParseDuration "24h"}}
+
+{{ $duration := $endDate.Sub $startDate }}
+
+{{ $days := div $duration.Hours 24 }}
+
+{{ $currentdate := $startDate }}
+
+{{ $lastmonth := 0 }}
+
+{{ range seq $days }}
+{{ $isSunday := strings.Contains $currentdate.Weekday "Sunday"}}
+{{ $isSaturday := strings.Contains $currentdate.Weekday "Saturday"}}
+
+{{ if ne $currentdate.Month $lastmonth }}
+{{ $lastmonth = $currentdate.Month }}
+
+<h1>{{ $currentdate.Month }}</h1>
+
+<div class="table-wrapper">
+    <table class="calendar-table" border="1">
+        <tr>
+            <td>Sunday</td>
+            <td>Monday</td>
+            <td>Tuesday</td>
+            <td>Wednesday</td>
+            <td>Thursday</td>
+            <td>Friday</td>
+            <td>Saturday</td>
+        </tr>
+        <tr>
+            {{ $paddingDate := time.AsTime "2024-12-01" }} {{/* Don't change this date! - This is constant for (any)
+            month
+            that begins with Sunday */}}
+            {{ $monthStartDateString := print (time.Format "2006-01" $currentdate) "-01" }}
+            {{ $monthStartDate := time.AsTime $monthStartDateString }}
+
+            {{ range seq 0 6 }}
+            {{ if strings.Contains $paddingDate.Weekday $monthStartDate.Weekday }}
+            {{ break }}
+            {{ end }}
+            <td></td>
+            {{ $paddingDate = $paddingDate.Add $oneDay }}
+            {{ end }}
+            {{ else }}
+            {{ if $isSunday }}
+        <tr>
+            {{ end }}
+            {{ end }}
+
+            <td>
+                {{ $currentdate.Day }}
+                {{ range $rootData.Site.Pages }}
+                {{ if eq (time.Format "2006-01-02" $currentdate) (time.Format "2006-01-02" .Date) }}
+                {{ if not (eq .Title "Events")}}
+                {{ if (strings.Contains .RelPermalink "events")}}
+                <a class="event-link" href="{{ .RelPermalink }}" title='{{ .Date.Format "1/2/2006" }} - {{.Title}}'>
+                    <div class="event-widget">
+                        <span style="color:white;">{{.Title}}</span>
+                    </div>
+                </a>
+                {{ end }}
+                {{ end }}
+                {{ end }}
+                {{ end }}
+            </td>
+
+            {{ if $isSaturday }}
+        </tr>
+        {{ end }}
+
+        {{/* Calculate date for next loop */}}
+        {{ $currentdate = $currentdate.Add $oneDay }}
+
+        {{ if ne $currentdate.Month $lastmonth }}
+    </table>
+</div>
+{{ end }}
+{{ end }}
+
+<style>
+    .event-link {
+        display: block;
+        width: 100px;
+        font-size: small;
+        color: white;
+        text-align: center;
+    }
+
+    .event-widget {
+        background-color: #ea2128;
+        border-radius: 15px;
+    }
+
+    td {
+        vertical-align: top !important;
+    }
+
+    @media (max-width: 768) {
+        .table-wrapper {
+            overflow-x: auto;
+        }
+
+        .calendar-table {
+            scale: 80%;
+            position: relative;
+            left: -10%
+        }
+    }
+</style>
