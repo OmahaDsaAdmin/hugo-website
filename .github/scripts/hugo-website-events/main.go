@@ -17,53 +17,57 @@ var ExportPath string
 
 func main() {
 	// Setup CLI args
-	ApiKey = os.Args[1]
-	ExportPath = os.Args[2]
+	ExportPath = os.Args[1]
 
-	if ApiKey == "" || ExportPath == "" {
-		fmt.Println("missing required args")
-		return
-	}
+	// Multiple API Keys can be supplied
+	for i := 2; i < len(os.Args); i++ {
+		ApiKey = os.Args[i]
 
-	// Setup http request
-	url := "https://actionnetwork.org/api/v2/events/"
-	method := "GET"
+		if ApiKey == "" || ExportPath == "" {
+			fmt.Println("missing required args")
+			return
+		}
 
-	client := &http.Client{}
-	req, err := http.NewRequest(method, url, nil)
+		// Setup http request
+		url := "https://actionnetwork.org/api/v2/events/"
+		method := "GET"
 
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-	req.Header.Add("OSDI-API-Token", ApiKey)
+		client := &http.Client{}
+		req, err := http.NewRequest(method, url, nil)
 
-	// Send the request
-	res, err := client.Do(req)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-	defer res.Body.Close()
+		if err != nil {
+			fmt.Println(err)
+			return
+		}
+		req.Header.Add("OSDI-API-Token", ApiKey)
 
-	body, err := io.ReadAll(res.Body)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
+		// Send the request
+		res, err := client.Do(req)
+		if err != nil {
+			fmt.Println(err)
+			return
+		}
+		defer res.Body.Close()
 
-	// Unmarshal the response body into an event response
-	var EventResponse EventResponse
-	err = json.Unmarshal([]byte(body), &EventResponse)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
+		body, err := io.ReadAll(res.Body)
+		if err != nil {
+			fmt.Println(err)
+			return
+		}
 
-	// For each event, write the data to a markdown template
-	events := EventResponse.Embedded.Events
-	for i := 0; i < len(events); i++ {
-		createAndFillTemplate(events[i])
+		// Unmarshal the response body into an event response
+		var EventResponse EventResponse
+		err = json.Unmarshal([]byte(body), &EventResponse)
+		if err != nil {
+			fmt.Println(err)
+			return
+		}
+
+		// For each event, write the data to a markdown template
+		events := EventResponse.Embedded.Events
+		for i := 0; i < len(events); i++ {
+			createAndFillTemplate(events[i])
+		}
 	}
 
 	fmt.Println("passed")
