@@ -27,8 +27,18 @@ jobs:
       - name: Run Go script to update content
         working-directory: .github/scripts/hugo-website-events/
         env:
-          API_KEY: ${{ secrets.ACTION_NETWORK_API_KEY }}
-        run: sudo ./hugo-website-events "$API_KEY" "$GITHUB_WORKSPACE/content/events"
+          API_KEY1: ${{ secrets.ACTION_NETWORK_API_KEY }}
+          API_KEY2: ${{ secrets.AN_AFFORDABLE_HOUSING_CC_KEY }}
+          API_KEY3: ${{ secrets.AN_COMMITTEE_OF_CORRESPONDENCE_KEY }}
+          API_KEY4: ${{ secrets.AN_CONVENTION_COMMITTEES_KEY }}
+          API_KEY5: ${{ secrets.AN_LABOR_WG_KEY }}
+          API_KEY6: ${{ secrets.AN_LEGISLATIVE_WG_KEY }}
+          API_KEY7: ${{ secrets.AN_MEMBERSHIP_OUTREACH_COMMITTEE_KEY }}
+          API_KEY8: ${{ secrets.AN_MUTUAL_AID_WG_KEY }}
+          API_KEY9: ${{ secrets.AN_POLITICAL_EDUCATION_COMMITTEE_KEY }}
+          API_KEY10: ${{ secrets.AN_TECH_COMMITTEE_KEY }}
+          API_KEY11: ${{ secrets.AN_TRBA_WG_KEY }}
+        run: sudo ./hugo-website-events "$GITHUB_WORKSPACE/content/events" "$API_KEY1" "$API_KEY2" "$API_KEY3" "$API_KEY4" "$API_KEY5" "$API_KEY6" "$API_KEY7" "$API_KEY8" "$API_KEY9" "$API_KEY10" "$API_KEY11"
 
       - name: Commit and push changes
         env:
