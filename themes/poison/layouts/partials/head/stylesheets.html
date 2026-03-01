@@ -10,3 +10,15 @@
   | resources.Concat "css/bundle.css" | minify | fingerprint }}
 
 <link type="text/css" rel="stylesheet" href="{{ $css_bundle.RelPermalink }}">
+
+{{/* Include any page-specific CSS files listed in page front matter `css:` */}}
+{{ with .Params.css }}
+  {{ range . }}
+    {{ $css := resources.Get . }}
+    {{ if $css }}
+      <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    {{ else }}
+      <link rel="stylesheet" href="{{ . | relURL }}">
+    {{ end }}
+  {{ end }}
+{{ end }}

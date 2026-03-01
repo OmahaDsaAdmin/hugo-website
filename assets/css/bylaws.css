@@ -1,0 +1,7 @@
+/* Overwrite default code tag style for the bylaws page. The default 
+   prevents the text content from wrapping properly which causes some line
+   to be missing */
+.post code {
+    white-space: normal !important;
+}
+
