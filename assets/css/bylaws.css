@@ -1,7 +1,19 @@
-/* Overwrite default code tag style for the bylaws page. The default 
-   prevents the text content from wrapping properly which causes some line
-   to be missing */
-.post code {
-    white-space: normal !important;
+
+.post pre,code {
+    margin: 0 !important;
+    padding: 0 !important;
+    color: inherit !important;
+    background: transparent !important;
+    font-size: inherit !important;
+
+    /* This overwites the code specific font so that it looks consistent through the website
+      !!! Important : Be sure that this is always in sync with the ./custom.css file 
+      */
+    font-family: "Styrene", sans-serif;
 }
 
+.post pre code {
+    all: unset !important;          
+    display: block !important;      
+    white-space: normal !important;    
+}
