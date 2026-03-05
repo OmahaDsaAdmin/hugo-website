@@ -10,6 +10,9 @@
       !!! Important : Be sure that this is always in sync with the ./custom.css file 
       */
     font-family: "Styrene", sans-serif;
+    white-space: normal !important;
+    overflow-wrap: normal !important;
+    word-break: normal !important;
 }
 
 .post pre code {
