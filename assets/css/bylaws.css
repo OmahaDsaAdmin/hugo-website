@@ -1,0 +1,22 @@
+
+.post pre,code {
+    margin: 0 !important;
+    padding: 0 !important;
+    color: inherit !important;
+    background: transparent !important;
+    font-size: inherit !important;
+
+    /* This overwites the code specific font so that it looks consistent through the website
+      !!! Important : Be sure that this is always in sync with the ./custom.css file 
+      */
+    font-family: "Styrene", sans-serif;
+    white-space: normal !important;
+    overflow-wrap: normal !important;
+    word-break: normal !important;
+}
+
+.post pre code {
+    all: unset !important;          
+    display: block !important;      
+    white-space: normal !important;    
+}
