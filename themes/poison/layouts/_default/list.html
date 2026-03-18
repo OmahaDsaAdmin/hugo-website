@@ -17,7 +17,9 @@
 {{ partial "call_for_writers.html" . }}
 {{ end }}
 
+{{ if eq .Title "Events" }}
 <h1>Event History</h1>
+{{ end }}
 {{ range .Pages }}
 <article>
   <h3 class="title">
