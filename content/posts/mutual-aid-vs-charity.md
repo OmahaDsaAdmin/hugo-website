@@ -5,9 +5,7 @@ draft: false
 hideToc: true
 ---
 
-# Mutual Aid vs Charity
-
-## And how we can build a mass socialist movement
+### And how we can build a mass socialist movement
 
 To understand what mutual aid is, we must first understand what it is not. Mutual aid in a socialist context is not charity. We must also understand that mutual aid is not without criticism, but we can work to minimize those contradictions by employing certain tactics.
 
