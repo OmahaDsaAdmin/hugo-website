@@ -1,12 +1,12 @@
 ---
 title: "Abortion Forever"
 date: 2026-03-17
-draft: true
+draft: false
 hideToc: true
 author: "Kacie W."
 ---
 
-**Content Warning: Child Abuse, Rape, Abortion**
+**Content Warning: Child Sexual Abuse, Rape, Abortion**
 
 The reason I put my name in the hat for Treasurer of the Omaha chapter of the Democratic Socialists of America was to force me to make space for my activism again. That and my dozen or so years working in finance, participation on a non-profit board, and personal experience as a small business owner prepared me to support the chapter in the dollars and cents way. Most of all, I wanted to build community with folks who cared about the things that I do. One of those things happens to be abortion, because I’ve had one myself.
 
