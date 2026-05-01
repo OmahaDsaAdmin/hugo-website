@@ -1,7 +1,7 @@
 ---
 title: "Why Labor Day Matters in the Age of AI"
 date: 2026-05-01
-draft: true
+draft: false
 hideToc: true
 author: "James E."
 ---
