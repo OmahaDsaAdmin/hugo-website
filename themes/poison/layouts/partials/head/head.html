@@ -2,27 +2,27 @@
 <html xmlns="http://www.w3.org/1999/xhtml" {{with .Site.LanguageCode}} xml:lang="{{.}}" lang="{{.}}" {{end}}>
 
 <head>
-    <meta http-equiv="Content-Security-Policy" content="
+  <meta http-equiv="Content-Security-Policy" content="
     default-src 'self' http://localhost:1313 https://actionnetwork.org;
     script-src 'self' https://actionnetwork.org;
-    style-src 'self' 'unsafe-inline';
+    style-src 'self' https://actionnetwork.org 'unsafe-inline';
     object-src 'none';
     base-uri 'self';
   ">
-    {{ partial "head/scripts.html" . }}
+  {{ partial "head/scripts.html" . }}
 
-    <!-- Content Type -->
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <!-- Content Type -->
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-    <!-- Enable responsiveness on mobile devices-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- favicon -->
-    <link rel="icon" href={{ .Site.Params.favicon | default "/favicon.png" }}>
+  <!-- favicon -->
+  <link rel="icon" href={{ .Site.Params.favicon | default "/favicon.png" }}>
 
-    <!-- CSS stylesheets -->
-    {{ partial "head/stylesheets.html" . }}
+  <!-- CSS stylesheets -->
+  {{ partial "head/stylesheets.html" . }}
 
-    <!-- Custom style tag for parameterized CSS -->
-    {{ partial "head/css.html" . }}
+  <!-- Custom style tag for parameterized CSS -->
+  {{ partial "head/css.html" . }}
 </head>
