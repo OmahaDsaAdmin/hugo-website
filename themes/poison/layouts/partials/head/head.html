@@ -7,6 +7,7 @@
     script-src 'self' https://actionnetwork.org;
     style-src 'self' https://actionnetwork.org 'unsafe-inline';
     object-src 'none';
+    img-src * https: blob:;
     base-uri 'self';
   ">
   {{ partial "head/scripts.html" . }}
