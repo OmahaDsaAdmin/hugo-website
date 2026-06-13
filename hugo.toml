@@ -73,3 +73,17 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+# Hardening for untrusted content
+[security]
+  enableInlineShortcodes = false
+
+[markup.goldmark.renderer]
+  unsafe = false
+
+[markup.goldmark.parser.attribute]
+  block = false
+  title = false
+
+[markup.highlight]
+  codeFences = false

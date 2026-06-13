@@ -1,6 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"{{with .Site.LanguageCode}} xml:lang="{{.}}" lang="{{.}}"{{end}}>
+<html xmlns="http://www.w3.org/1999/xhtml" {{with .Site.LanguageCode}} xml:lang="{{.}}" lang="{{.}}" {{end}}>
+
 <head>
+    <meta http-equiv="Content-Security-Policy" content="
+    default-src 'self' http://localhost:1313 https://actionnetwork.org;
+    script-src 'self' https://actionnetwork.org;
+    style-src 'self' 'unsafe-inline';
+    object-src 'none';
+    base-uri 'self';
+  ">
     {{ partial "head/scripts.html" . }}
 
     <!-- Content Type -->
@@ -11,9 +19,6 @@
 
     <!-- favicon -->
     <link rel="icon" href={{ .Site.Params.favicon | default "/favicon.png" }}>
-
-    <!-- META -->
-    {{ partial "head/meta.html" . }}
 
     <!-- CSS stylesheets -->
     {{ partial "head/stylesheets.html" . }}
