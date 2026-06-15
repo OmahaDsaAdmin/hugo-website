@@ -4,10 +4,29 @@
 <head>
   <meta http-equiv="Content-Security-Policy" content="
     default-src 'self' http://localhost:1313 https://actionnetwork.org;
-    script-src 'self' https://actionnetwork.org;
-    style-src 'self' https://actionnetwork.org 'unsafe-inline';
+
+    script-src
+      'self'
+      'sha256-ZiuPtBZ6iITY6c2DZ+mW9BdPe90BamyQeRQy+nmG0dg='
+      'sha256-1m9w//ExwjhDyEJYoh8g1cQ5qSuRjQUm255WuE5LXlo='
+      https://actionnetwork.org
+      https://cdn.jsdelivr.net;
+
+    style-src
+      'self'
+      'unsafe-inline'
+      https://actionnetwork.org
+      https://cdn.jsdelivr.net;
+
+    font-src 'self' data:;
+
+    img-src
+      'self'
+      https:
+      data:
+      blob:;
+
     object-src 'none';
-    img-src * https: blob:;
     base-uri 'self';
   ">
   {{ partial "head/scripts.html" . }}
