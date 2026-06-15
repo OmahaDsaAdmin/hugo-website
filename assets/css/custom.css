@@ -3,25 +3,25 @@
 @font-face {
     font-family: 'Greycliff L';
     src: local(''),
-         url('/oma-dsa-ex/fonts/Greycliff/GREYCLIFFCF-LIGHT.OTF') format('opentype'),
+         url('/fonts/Greycliff/GREYCLIFFCF-LIGHT.OTF') format('opentype'),
   }
 
   @font-face {
     font-family: 'Styrene BL';
     src: local(''),
-         url('/oma-dsa-ex/fonts/Styrene/StyreneB-Black.otf') format('opentype'),
+         url('/fonts/Styrene/StyreneB-Black.otf') format('opentype'),
   }
 
   @font-face {
     font-family: 'Styrene B';
     src: local(''),
-         url('/oma-dsa-ex/fonts/Styrene/StyreneB-Bold.otf') format('opentype'),
+         url('/fonts/Styrene/StyreneB-Bold.otf') format('opentype'),
   }
 
   @font-face {
     font-family: 'Styrene';
     src: local(''),
-         url('/oma-dsa-ex/fonts/Styrene/StyreneB-Regular.otf') format('opentype'),
+         url('/fonts/Styrene/StyreneB-Regular.otf') format('opentype'),
   }
 
 .sidebar-about h1 {
