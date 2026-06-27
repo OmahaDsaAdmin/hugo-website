@@ -3,7 +3,7 @@ title: "Mutual Aid vs Charity"
 
 date: "0001-01-01"
 draft: false
-
+author: "David S & Jessi L"
 hideToc: true
 ---
 
