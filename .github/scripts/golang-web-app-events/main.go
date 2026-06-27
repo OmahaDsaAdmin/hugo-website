@@ -98,8 +98,8 @@ func createAndFillTemplate(p Post, ep string, k string) {
 	fmt.Println(newFilePath)
 	_, err = os.Stat(newFilePath)
 	if err == nil {
-		log.Println("skipped file: "+newFilePath, nil)
-		return
+		os.Remove(newFilePath)
+		log.Println("removing old file: "+newFilePath, nil)
 	}
 
 	// If no file exists
