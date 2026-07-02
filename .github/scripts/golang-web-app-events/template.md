@@ -2,7 +2,7 @@
 title: "{{ .Title }}"
 {{ if .ActionNetworkGuid }}relPermalink: "{{ .ActionNetworkGuid }}"{{ end }}
 {{ if .ActionNetworkGuid }}date: "{{ .EventStartDate.Format `2006-01-02` }}"{{ end }}
-{{ if not .ActionNetworkGuid }}date: "{{ .CreatedDate.Format `2006-01-02` }}"{{ end }}
+{{ if not .ActionNetworkGuid }}date: "{{ .CreatedAt.Format `2006-01-02` }}"{{ end }}
 draft: {{ not .IsPublished }}
 {{ if .AuthorPublicName }}author: "{{ .AuthorPublicName }}"{{ end }}
 hideToc: true
