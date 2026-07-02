@@ -9,7 +9,7 @@ hideToc: true
 ---
 
 
-**EVENT START: Mon, 01 Jan 0001 12:00AM**
+
 
 Good Morning Comrades,
 

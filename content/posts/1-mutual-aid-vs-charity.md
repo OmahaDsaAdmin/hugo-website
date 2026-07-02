@@ -9,7 +9,7 @@ hideToc: true
 ---
 
 
-**EVENT START: Mon, 01 Jan 0001 12:00AM**
+
 
 ### And how we can build a mass socialist movement
 
