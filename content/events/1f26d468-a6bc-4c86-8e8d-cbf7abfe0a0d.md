@@ -2,6 +2,7 @@
 title: "9-9-2025 Building a Mass Organization"
 relPermalink: "1f26d468-a6bc-4c86-8e8d-cbf7abfe0a0d"
 date: "2025-09-09"
+
 draft: false
 
 hideToc: true
