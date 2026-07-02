@@ -9,7 +9,7 @@ hideToc: true
 ---
 
 {{ if .EventImageLink }} {{`{{`}}< smallImg src="{{ .EventImageLink}}" alt="event image">{{`}}`}} {{ end }}
-**EVENT START: {{ .EventStartDate.Format "Mon, 02 Jan 2006 3:04PM" }}**
+{{ if .ActionNetworkGuid }}**EVENT START: {{ .EventStartDate.Format "Mon, 02 Jan 2006 3:04PM" }}**{{ end }}
 
 {{ .Description }}
 

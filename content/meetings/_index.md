@@ -19,10 +19,10 @@ on the 3rd Monday, 6:00 PM at UNO.
 The Steering Committee is a five member group of officers elected to lead the
 chapter. The current committee was elected in July 2025 and their terms will end next year, July 2026.
 
-**Co-Chairs:** Courtney C. and Renais K.  
-**Membership & Outreach Coordinator:** Ryan N.  
-**Treasurer:** Kacie W.  
-**Secretary:** Kaylar F.
+**Co-Chairs:** Renais K. and David S.  
+**Membership & Outreach Coordinator:** Colin C.  
+**Treasurer:** Mike A.  
+**Secretary:** Lindsey B.
 
 Meetings are held twice each month on the 2nd and 4th Mondays, 7:00 PM on
 Zoom. All members are welcome to join us.
