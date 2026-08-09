@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN{{ range .}}
+BEGIN:VEVENT
+SUMMARY:{{ .Title }}
+DTSTART;TZID=America/Chicago:{{.EventStartDate.Format "20060102T150405"}}
+DESCRIPTION: {{ .Description }} \n ID: [ {{ .ActionNetworkGuid }} ] \n LINK: {{ if .EventLink }}[ {{ .EventLink }} ].{{ end }}
+STATUS: Published = {{ .IsPublished }}
+END:VEVENT{{ end }}
+END:VCALENDAR

@@ -1,0 +1,42 @@
+name: Pull Calendar
+
+on:
+  schedule:
+    - cron: "10 6 * * *" # daily
+  workflow_dispatch:
+
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout this (Hugo) repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.25.11"
+
+      - name: Build Go Script
+        working-directory: .github/scripts/golang-web-app-ical/
+        run: go build
+
+      - name: Run Go script to update content
+        working-directory: .github/scripts/golang-web-app-ical/
+        env:
+          API_URL: ${{ secrets.GOLANG_WEB_APP_API_URL }}
+          API_KEY: ${{ secrets.GOLANG_WEB_APP_API_KEY }}
+        run: sudo ./golang-web-app-ical "$GITHUB_WORKSPACE/static/ical" "$API_URL" "$API_KEY"
+
+      - name: Commit and push changes
+        env:
+          BOT_PAT: ${{ secrets.BOT_PAT }}
+        run: |
+          git config user.name "OmahaDsaAdmin"
+          git config user.email "omahadsa@gmail.com"
+          git add .
+          git commit -m "cron: ics updated" || echo "No changes to commit"
+          git push https://x-access-token:${BOT_PAT}@github.com/${{ github.repository }}.git HEAD:main

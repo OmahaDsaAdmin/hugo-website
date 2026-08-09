@@ -2,10 +2,996 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
+SUMMARY:Trans Day of Remembrance
+DTSTART;TZID=America/Chicago:20251122T190000
+DESCRIPTION: Trans Day of Remembrance event hosted by trans people in the community!  \n ID: [ d4d10952-ebbe-493b-b050-fde295c7b945 ] \n LINK: [ https://actionnetwork.org/events/trans-day-of-remembrance-2 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:July 2026 General Meeting
+DTSTART;TZID=America/Chicago:20260720T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include reports from working groups and committees, information on upcoming events, and decision points that need to be voted on. If you have never attended a meeting, please feel free to join us. &nbsp; General Meetings are usually conducted both in-person and virtually. Important: Once you RSVP you will receive an email with a link to details. Follow the link labeled, "Click here to view the event details" for specific location information and access to the virtual meeting. \n ID: [ 8943edfd-45d4-496e-948e-fefbf90ae0aa ] \n LINK: [ https://actionnetwork.org/events/july-2026-general-meeting-4 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - July 27th, 2026
+DTSTART;TZID=America/Chicago:20260727T180000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG.  \n ID: [ 91cd8a9a-fb30-4fab-9bec-b0675837a011 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-july-27th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trans Picnic
+DTSTART;TZID=America/Chicago:20260726T160000
+DESCRIPTION: Omaha TLC presents Trans PicnicTrans Picnic is scheduled for July 26th at Elmwood Park. Be sure to request off of work if you need in order to join us 😁If you have any questions, suggestions, or concerns, feel free to dm us! And if you'd like to help with this or future events, let us know!!🌻Details🌻When: July 26th from 3-8pm (show up early if you'd like to help us set up!)Where: Elmwood Park, navigate to Elmwood Park Parking, you'll see us!Food: Potluck style! We will have burgers, hotdogs, and vegetarian options. Bring your own food to share as well if you're able! (Vegan and/or gluten free options are encouraged, but not required) We will have cards to write out ingredients for your dish.Activities: We will have some yard games, crafting activies, and other fun games to play. We'll have scheduled events for anyone who wants to participate. Feel free to bring your own games/activities to share too.Extras: Masks are encouraged and provided! There is a sidewalk ramp leading to the picnic table pad and plenty of seating at the tables. There are portable bathrooms closeby, but I believe the pavillion bathrooms are locked 😕 let us know if that could pose any issues and we will work on a solution! Pets are welcome on a leash. Bring picnic blankets and/or lawn chairs if you're able (the picnic tables at the park will have activities on them and some will be reserved for any disabled individuals who request it) \n ID: [ 49971793-9efa-4997-93fc-544d206eae10 ] \n LINK: [ https://actionnetwork.org/events/trans-picnic ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Hike at Hitchcock Nature Center
+DTSTART;TZID=America/Chicago:20260722T153000
+DESCRIPTION: Join us at Hitchcock Nature Center this Wednesday July 22nd at 3:30 PM for a 4-mile hike through the Loess Hills of Iowa! Max elevation will be about 700ft so if you are sensitive to that please keep it in mind. The cost for this is $5 per vehicle for admission, so carpooling with some friends is definitely encouraged! Come and enjoy nature and time with other members of the community.Directions: From Interstate I-29 take the Crescent exit and travel east to The Old Lincoln Highway. Hitchcock Nature Center is located 5 miles north of Crescent off of Old Lincoln Highway. \n ID: [ 9e4c3c2d-d65f-49f0-80c8-24241f4932dc ] \n LINK: [ https://actionnetwork.org/events/community-hike-at-hitchcock-nature-center ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Monthly Omaha DSA Tech Committee Meeting
 DTSTART;TZID=America/Chicago:20260729T200000
-DTEND;TZID=America/Chicago:00010101T000000
-DESCRIPTION: Every month, the tech committee meets to discuss on-going work and priorities. The objective for each meeting is for each member to come away with at least 1 deliverable they can work towards for the next meeting.This is also a good time to network, plan future projects, and discuss the role of technology in the greater socialist movement.**NOTE:** Meeting will be held at 8PM virtually in OmahaDSA Signal. Send message in Discord to join if you haven't done so already. \n ID:a291f9b6-73c2-4192-a7a1-178d17785feb \n LINK:https://actionnetwork.org/events/monthly-omaha-dsa-tech-committee-meeting-5
-STATUS: confirmed
+DESCRIPTION: Every month, the tech committee meets to discuss on-going work and priorities. The objective for each meeting is for each member to come away with at least 1 deliverable they can work towards for the next meeting.This is also a good time to network, plan future projects, and discuss the role of technology in the greater socialist movement.**NOTE:** Meeting will be held at 8PM virtually in OmahaDSA Signal. Send message in Discord to join if you haven't done so already. \n ID: [ a291f9b6-73c2-4192-a7a1-178d17785feb ] \n LINK: [ https://actionnetwork.org/events/monthly-omaha-dsa-tech-committee-meeting-5 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
+DTSTART;TZID=America/Chicago:20260322T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 15th, 2026
+DTSTART;TZID=America/Chicago:20260315T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ f744017b-aa4b-4e5e-bff0-28549b2934d0 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alt ODTC Meeting
+DTSTART;TZID=America/Chicago:20260701T200000
+DESCRIPTION: This is a virtual event.Makeup meeting to be held WED JULY 1 @ 8:00 PM via SIGNAL \n ID: [ b33608eb-fa04-4c4e-b001-70f6f6015777 ] \n LINK: [ https://actionnetwork.org/events/alt-odtc-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly Omaha DSA Tech Committee Meeting
+DTSTART;TZID=America/Chicago:20260624T200000
+DESCRIPTION: Every month, the tech committee meets to discuss on-going work and priorities. The objective for each meeting is for each member to come away with at least 1 deliverable they can work towards for the next meeting.This is also a good time to network, plan future projects, and discuss the role of technology in the greater socialist movement.**NOTE:** Meeting will be held at 8PM virtually in OmahaDSA Signal. Send message in Discord to join if you haven't done so already. \n ID: [ 96c7a614-e8bc-4e6f-b05e-831b7f0bddc8 ] \n LINK: [ https://actionnetwork.org/events/monthly-omaha-dsa-tech-committee-meeting-4 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly Omaha DSA Tech Committee Meeting
+DTSTART;TZID=America/Chicago:20260408T200000
+DESCRIPTION: Every month, the tech committee meets to discuss on-going work and priorities. The objective for each meeting is for each member to come away with at least 1 deliverable they can work towards for the next meeting.This is also a good time to network, plan future projects, and discuss the role of technology in the greater socialist movement.**NOTE:** Meeting will be held at 8PM virtually in OmahaDSA Signal. Send message in Discord to join if you haven't done so already. \n ID: [ 4048b23d-47c7-4c87-bc3c-2e92013465c0 ] \n LINK: [ https://actionnetwork.org/events/monthly-omaha-dsa-tech-committee-meeting-3 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly Omaha DSA Tech Committee Meeting
+DTSTART;TZID=America/Chicago:20260304T200000
+DESCRIPTION: Every month, the tech committee meets to discuss on-going work and priorities. The objective for each meeting is for each member to come away with at least 1 deliverable they can work towards for the next meeting.This is also a good time to network, plan future projects, and discuss the role of technology in the greater socialist movement.**NOTE:** Meeting will be held at 8PM virtually in OmahaDSA Discord. Join if you haven't done so already and look for Meeting Room Marx. \n ID: [ 472f3ee5-4508-4436-95a7-849aba8b028c ] \n LINK: [ https://actionnetwork.org/events/monthly-omaha-dsa-tech-committee-meeting-2 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly Omaha DSA Tech Committee Meeting
+DTSTART;TZID=America/Chicago:20260211T200000
+DESCRIPTION: Every month, the tech committee meets to discuss on-going work and priorities. The objective for each meeting is for each member to come away with at least 1 deliverable they can work towards for the next meeting.This is also a good time to network, plan future projects, and discuss the role of technology in the greater socialist movement.**NOTE:** Meeting will be held at 8PM virtually in OmahaDSA Discord. Join if you haven't done so already and look for Meeting Room Marx. \n ID: [ 676dae8b-236e-4a73-bc18-feb90c61f82f ] \n LINK: [ https://actionnetwork.org/events/monthly-omaha-dsa-tech-committee-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Socialism 101
+DTSTART;TZID=America/Chicago:20260207T100000
+DESCRIPTION: Have you ever thought to yourself 'what exactly is Socialism?' If so, then please consider joining us for the first Socialism 101! This class is perfect for new members, and non-members, alike, who are ready to begin studying socialist theory (or for those who simply wish to be able to explain to their friends, once and for all, what the 'S' in 'DSA' stands for.)We will discuss what socialism is, and what it is not, by comparing it to the capitalist system we are living in today. We will also present some of the questions that are often a source of debate amongst socialists. This will allow us to delve into the various schools of thought which socialists, in general, and DSA members, in particular, often belong. \n ID: [ f17ecc33-a440-48fa-8882-7e1582ee7b4f ] \n LINK: [ https://actionnetwork.org/events/socialism-101-45 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Socialism 101
+DTSTART;TZID=America/Chicago:20251213T130000
+DESCRIPTION: Have you ever thought to yourself 'what exactly is Socialism?' If so, then please consider joining us for the first Socialism 101! This class is perfect for new members, and non-members, alike, who are ready to begin studying socialist theory (or for those who simply wish to be able to explain to their friends, once and for all, what the 'S' in 'DSA' stands for.)We will discuss what socialism is, and what it is not, by comparing it to the capitalist system we are living in today. We will also present some of the questions that are often a source of debate amongst socialists. This will allow us to delve into the various schools of thought which socialists, in general, and DSA members, in particular, often belong. \n ID: [ 5457308a-ddda-4f25-8e4e-c85695416567 ] \n LINK: [ https://actionnetwork.org/events/socialism-101-12-13-2025 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DSA 101
+DTSTART;TZID=America/Chicago:20251206T100000
+DESCRIPTION: DSA 101 is an event for new members and non members where you will be introduced to socialism and DSA! You will hear directly from chapter leaders and active members about our inspiring vision for mass politics, member democracy, and class struggle campaigns that our chapter is organizing. \n ID: [ 6a2bed30-ad2f-42a6-9378-d5e97f5a5ae0 ] \n LINK: [ https://actionnetwork.org/events/dsa-101-11-29-2025 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-9-2025 Labor Solidarity
+DTSTART;TZID=America/Chicago:20251009T180000
+DESCRIPTION: Learn about why we're fiercely in support of labor.Overview:Why the Working Class?The Labor MovementLabor Solidarity
+ \n ID: [ 70c071fb-cadb-449d-8b3c-6ea927561575 ] \n LINK: [ https://actionnetwork.org/events/10-9-2025-labor-solidarity ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Socialism 101
+DTSTART;TZID=America/Chicago:20251101T140000
+DESCRIPTION: Have you ever thought to yourself 'what exactly is Socialism?' If so, then please consider joining us for the first Socialism 101! This class is perfect for new members, and non-members, alike, who are ready to begin studying socialist theory (or for those who simply wish to be able to explain to their friends, once and for all, what the 'S' in 'DSA' stands for.)We will discuss what socialism is, and what it is not, by comparing it to the capitalist system we are living in today. We will also present some of the questions that are often a source of debate amongst socialists. This will allow us to delve into the various schools of thought which socialists, in general, and DSA members, in particular, often belong. \n ID: [ 0d594850-6161-49df-9f23-c45d1f50c9a4 ] \n LINK: [ https://actionnetwork.org/events/socialism-101-01 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DSA 101
+DTSTART;TZID=America/Chicago:20250823T130000
+DESCRIPTION: DSA 101 is an event for new members and non members where you will be introduced to socialism and DSA! You will hear directly from chapter leaders and active members about our inspiring vision for mass politics, member democracy, and class struggle campaigns that our chapter is organizing. \n ID: [ 4bd01f56-acc0-4846-a9b7-1195195c077a ] \n LINK: [ https://actionnetwork.org/events/dsa-101-89 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sign up to table in Free Pride 2026 (Omaha)
+DTSTART;TZID=America/Chicago:20260628T150000
+DESCRIPTION: Omaha DSA will be tabling in Free Pride in Elmwood Park in Omaha, and we need Chapter Members to help us set up, run, and tear down the table itself.Free Pride will be 4pm-8pm in Elmwood Park, but we need folks here before and after as well to help with logistics.No Cops, No Corps, Just Us. \n ID: [ dba43a03-d133-4809-a3ad-ff6d17e65fbf ] \n LINK: [ https://actionnetwork.org/events/sign-up-to-table-in-free-pride-2026-omaha ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sign up to table in Free Pride 2026 (Lincoln)
+DTSTART;TZID=America/Chicago:20260627T150000
+DESCRIPTION: Omaha DSA will be tabling in Free Pride in Antelope Park in Lincoln, and we need Chapter Members to help us set up, run, and tear down the table itself.Free Pride will be 4pm-9pm in Antelope Park, but we need folks here before and after as well to help with logistics.No Cops, No Corps, Just Us. \n ID: [ 0fa138d8-325b-4724-baba-0de77fa268fc ] \n LINK: [ https://actionnetwork.org/events/sign-up-to-table-in-free-pride-2026-lincoln ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sign up to table in No Kings 3
+DTSTART;TZID=America/Chicago:20260328T090000
+DESCRIPTION: Omaha DSA will be tabling in No Kings 3.0, and we need Chapter Members to help us set up, run, and tear down the table itself.No Kings 3.0 will be 12pm-4pm in Gallagher Park, but we need folks here before and after as well to help with logistics. \n ID: [ 5d3d7124-269c-4335-9141-266c5033351f ] \n LINK: [ https://actionnetwork.org/events/sign-up-to-table-in-no-kings-3 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3-19-2026 Membership & Outreach Committee Meeting
+DTSTART;TZID=America/Chicago:20260319T183000
+DESCRIPTION: Quarterly meeting for the Omaha DSA Membership & Outreach Committee. Tentative agenda:AnnouncementsGeneral Check-In: How are things going with onboarding? Are you having issues, need help with anything?Set Next Meeting Date \n ID: [ 893df856-6b38-414f-9320-ab1a28ea656a ] \n LINK: [ https://actionnetwork.org/events/3-19-2026-membership-outreach-committee-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2-21-2026 Building a Mass Organization and Strategic Pressure Campaigns
+DTSTART;TZID=America/Chicago:20260221T080000
+DESCRIPTION: Learn about DSA's theory of change, our basic strategy as a socialist mass organization, and how to win campaigns and build working-class power.Overview:Building a Mass OrganizationDSA Overview and TheoryMass Socialist OrganizationsBuilding a Mass OrganizationStrategic Pressure CampaignsTheory of ChangeTransformative DemandsBreaking Down a CampaignPlanning to WinIdentifying a DemandStrategy & TacticsRecruitment Through CampaignsRecruiting Your BaseCampaign Pipeline \n ID: [ 6510ddea-b58f-4492-8d9e-1e3a8255326f ] \n LINK: [ https://actionnetwork.org/events/2-21-2026-building-a-mass-organization-and-strategic-pressure-campaigns ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3-5-2026 Membership & Outreach Committee Meeting
+DTSTART;TZID=America/Chicago:20260305T183000
+DESCRIPTION: Quarterly meeting for the Omaha DSA Membership & Outreach Committee. Tentative agenda:AnnouncementsGeneral Check-In: How are things going with onboarding? Are you having issues, need help with anything?Set Next Meeting Date \n ID: [ 25183cd7-afc3-4565-89e6-de5a61546b28 ] \n LINK: [ https://actionnetwork.org/events/3-5-2026-membership-outreach-committee-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1-24-2026 Building a Mass Organization and Social
+DTSTART;TZID=America/Chicago:20260124T133000
+DESCRIPTION: Learn about DSA's theory of change, and our basic strategy as a socialist mass organization.NOTE: This training session is in-person, meaning there's a limited number of folks we can accommodate, so RSVP is needed so I can get an accurate head count! Afterwards, come join us in Zio's Pizzeria, 1109 Howard St, Omaha, NE 68102!Overview:DSA Overview and TheoryMass Socialist OrganizationsBuilding a Mass Organization \n ID: [ 9225da0b-2422-4e6f-b827-92618d0232a1 ] \n LINK: [ https://actionnetwork.org/events/1-24-2026-building-a-mass-organization ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12-2-2025 Building a Mass Organization
+DTSTART;TZID=America/Chicago:20251202T180000
+DESCRIPTION: Learn about DSA's theory of change, and our basic strategy as a socialist mass organization.Overview:DSA Overview and TheoryMass Socialist OrganizationsBuilding a Mass Organization \n ID: [ b7b54765-1795-4b8e-aef1-741e895110f2 ] \n LINK: [ https://actionnetwork.org/events/12-2-2025-building-a-mass-organization ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11-6-2025 Strategic Pressure Campaigns
+DTSTART;TZID=America/Chicago:20251106T180000
+DESCRIPTION: Learn how to win campaigns and build working-class power.Overview:Theory of ChangeTransformative DemandsBreaking Down a CampaignPlanning to WinIdentifying a DemandStrategy & TacticsRecruitment Through CampaignsRecruiting Your BaseCampaign Pipeline
+ \n ID: [ 5b2b9600-e71f-4d07-8c99-7b7993115ca9 ] \n LINK: [ https://actionnetwork.org/events/11-6-2025-strategic-pressure-campaigns ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 8th, 2026
+DTSTART;TZID=America/Chicago:20260308T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 583c7ba4-534c-4b2a-9872-186f0cb91e01 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-8st-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11-4-2025 Building a Mass Organization
+DTSTART;TZID=America/Chicago:20251104T180000
+DESCRIPTION: Learn about DSA's theory of change, and our basic strategy as a socialist mass organization.Overview:DSA Overview and TheoryMass Socialist OrganizationsBuilding a Mass Organization \n ID: [ 9ad7aef5-3eec-46e8-b513-6b624a7e2ab1 ] \n LINK: [ https://actionnetwork.org/events/11-4-2025-building-a-mass-organization ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 1st, 2026
+DTSTART;TZID=America/Chicago:20260301T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 6c8182a5-ee9a-4d6d-846e-2ef9662054bd ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-1st ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-7-2025 Building a Mass Organization
+DTSTART;TZID=America/Chicago:20251007T180000
+DESCRIPTION: Learn about DSA's theory of change, and our basic strategy as a socialist mass organization.Overview:DSA Overview and TheoryMass Socialist OrganizationsBuilding a Mass Organization \n ID: [ e6bd3aa2-a907-4ff0-8d27-301bed95bc58 ] \n LINK: [ https://actionnetwork.org/events/10-7-2025-building-a-mass-organization ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12-04-2025 Membership & Outreach Committee Meeting
+DTSTART;TZID=America/Chicago:20251204T183000
+DESCRIPTION: Quarterly meeting for the Omaha DSA Membership & Outreach Committee. Tentative agenda:AnnouncementsGeneral Check-In: How are things going with onboarding? Are you having issues, need help with anything?Set Next Meeting Date \n ID: [ d5900d40-991b-4ec3-b653-41c6b32a3284 ] \n LINK: [ https://actionnetwork.org/events/12-04-2025-membership-outreach-committee-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-04-2025 Membership & Outreach Committee Meeting
+DTSTART;TZID=America/Chicago:20250904T183000
+DESCRIPTION: This will be the first meeting of the Membership & Outreach Committee. Ryan is thinking we'll establish quarterly meetings to check in with each other. Tentative agenda:AnnouncementsGeneral Check-In: How are things going with onboarding? Are you having issues, need help with anything?Set Next Meeting Date \n ID: [ d91e35c2-567d-40bb-82b6-bc334c9d359a ] \n LINK: [ https://actionnetwork.org/events/membership-outreach-committee-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-11-2025 Choosing Goals, Priorities and Campaigns
+DTSTART;TZID=America/Chicago:20250911T180000
+DESCRIPTION: Learn how we choose what to do, so we can set a course for our chapter.
+ \n ID: [ bf4d71f2-ab50-4b46-8044-8c8dcd17e8ed ] \n LINK: [ https://actionnetwork.org/events/9-11-2025-choosing-goals-priorities-and-campaigns ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-9-2025 Building a Mass Organization
+DTSTART;TZID=America/Chicago:20250909T180000
+DESCRIPTION: Learn about DSA's theory of change, and our basic strategy as a socialist mass organization. \n ID: [ 1f26d468-a6bc-4c86-8e8d-cbf7abfe0a0d ] \n LINK: [ https://actionnetwork.org/events/9-9-2025-building-a-mass-organization ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8-14-2025 Green New Deal
+DTSTART;TZID=America/Chicago:20250814T180000
+DESCRIPTION: Come join us to learn how to win a Green New Deal and build working-class power. \n ID: [ 5f6ca80c-6f2e-43b1-80bb-ac0a78abaa21 ] \n LINK: [ https://actionnetwork.org/events/8-14-2025-green-new-deal ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8-12-2025 Building a Mass Organization
+DTSTART;TZID=America/Chicago:20250812T180000
+DESCRIPTION: Learn about DSA's theory of change, and our basic strategy as a socialist mass organization. \n ID: [ cf7767d4-80f7-4bb5-9603-9a189bd98665 ] \n LINK: [ https://actionnetwork.org/events/8-12-2025-building-a-mass-organization ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4-2-2025 Omaha DSA Membership & Outreach Working Group Called Meeting
+DTSTART;TZID=America/Chicago:20250402T180000
+DESCRIPTION: Join us as we go over our onboarding process.
+    
+        Agenda (tentative):
+    
+    Call meeting to order
+        Introductions
+        Community agreements
+        Choose recording secretary
+        Review, amend and approve agenda
+        Announcements and communicationsReportsOld businessNew businessOnboarder HandbookGood and Welfare
+        Adjournment
+        
+ \n ID: [ f8279377-9723-41eb-962b-9bab28b1f607 ] \n LINK: [ https://actionnetwork.org/events/4-2-2025-omaha-dsa-membership-outreach-working-group-called-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - July 6th, 2026
+DTSTART;TZID=America/Chicago:20260706T180000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG.  \n ID: [ e2864df3-46c1-420a-a4d6-a0f5f2989aa6 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-july-6th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - June 22nd, 2026
+DTSTART;TZID=America/Chicago:20260622T180000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG.  \n ID: [ 980484ae-958e-404e-b435-13dea7a92749 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-june-22nd-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - June 8th, 2026
+DTSTART;TZID=America/Chicago:20260608T180000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG.  \n ID: [ 216e5dea-bba0-460d-bba9-02b988fded7d ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-june-8th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - May 17th, 2026
+DTSTART;TZID=America/Chicago:20260517T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG.  \n ID: [ b7b5f20c-554b-485f-af60-0e54b1a9c22d ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-april-26th-2026-2 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - May 3rd, 2026
+DTSTART;TZID=America/Chicago:20260503T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. We will be at Meeting room 201. \n ID: [ 99aaf280-f2a7-4ccc-95fe-67c74fb2b01b ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-may-3rd-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - April 26th, 2026
+DTSTART;TZID=America/Chicago:20260426T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. We will be at Meeting room 2. \n ID: [ c3a01de2-606f-4ea5-a344-d0c6e48ff618 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-april-26th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - April 12th, 2026
+DTSTART;TZID=America/Chicago:20260412T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 5e62ef31-39cc-4e00-8d7e-2890ee797dac ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-april-5th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 29th, 2026
+DTSTART;TZID=America/Chicago:20260329T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ ff2925a0-e26d-471f-840a-2681664b041a ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-29th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - Meeting 13
+DTSTART;TZID=America/Chicago:20260222T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 6fb5e142-7f90-46c3-8683-6d76835eaa2e ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-meeting-13 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - Meeting 12
+DTSTART;TZID=America/Chicago:20260215T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 764af637-ef57-4fc7-a8b8-9a01de8eb9ac ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-meeting-12 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - Meeting 11
+DTSTART;TZID=America/Chicago:20260215T150000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 0030b107-ce1b-44a4-8d76-1e1511b72eea ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-meeting-11 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - Meeting 10
+DTSTART;TZID=America/Chicago:20260210T173000
+DESCRIPTION: Ongoing meeting series for the ODSA food delivery project. \n ID: [ 688852c9-93c5-4ddb-b92b-aec832769f01 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-meeting-10 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - Meeting 9
+DTSTART;TZID=America/Chicago:20260201T163000
+DESCRIPTION: Ongoing meeting series for the ODSA food delivery project. \n ID: [ 9f8a5b77-1370-4005-9bd2-3bbdbd8d22a4 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-meeting-9 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - Meeting 8
+DTSTART;TZID=America/Chicago:20260125T163000
+DESCRIPTION: Ongoing meeting series for the ODSA food delivery project. \n ID: [ 85b0dddd-55a0-48c7-9f8e-3886baef8ff1 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-meeting-8 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - Meeting 7
+DTSTART;TZID=America/Chicago:20260111T163000
+DESCRIPTION: Ongoing meeting series for the ODSA food delivery project. \n ID: [ 1e622647-f868-44b8-8ddd-f8530355973e ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-meeting-7 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - Meeting 6
+DTSTART;TZID=America/Chicago:20260104T143000
+DESCRIPTION: Ongoing meeting series for the ODSA food delivery project. \n ID: [ 8f48be95-b106-4451-b857-779ac4a47e86 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-meeting-6 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - Meeting 5
+DTSTART;TZID=America/Chicago:20251221T143000
+DESCRIPTION: Ongoing meeting series for the ODSA food delivery project. \n ID: [ 68a1feb7-9939-4a73-8c7c-a651c1692794 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-meeting-5 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - Meeting 4
+DTSTART;TZID=America/Chicago:20251214T143000
+DESCRIPTION: Ongoing meeting series for the ODSA food delivery project. \n ID: [ 3f1f6138-49e4-40d1-8591-ca926e3f8b39 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-meeting-4 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - Meeting Series
+DTSTART;TZID=America/Chicago:20251116T143000
+DESCRIPTION: Ongoing meeting series for the ODSA food delivery project.  \n ID: [ 93fd9c74-17a8-4917-ad74-fab8ba8dfe7d ] \n LINK: [ https://actionnetwork.org/events/odsa-pop-up-food-bank-meeting-series ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Pop up food bank - Initial meeting
+DTSTART;TZID=America/Chicago:20251109T143000
+DESCRIPTION: This will be our first meeting to plan our response to the SNAP crisis. Our goal is to address the crisis locally in a way that builds solidarity and working class power. We will not be means-testing. \n ID: [ 68c4d04c-6b56-4978-84da-6d3576bdb875 ] \n LINK: [ https://actionnetwork.org/events/odsa-pop-up-food-bank-initial-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-16-2025 Omaha DSA Brake Light Clinic Planning Meeting
+DTSTART;TZID=America/Chicago:20251016T180000
+DESCRIPTION: Join us as we plan out our chapter's first Brake Light Clinic! \n ID: [ 6d8961d2-2603-4726-9850-971066c5428f ] \n LINK: [ https://actionnetwork.org/events/10-16-2025-omaha-dsa-brake-light-clinic-planning-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:May 2026 General Meeting
+DTSTART;TZID=America/Chicago:20260518T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include reports from working groups and committees, information on upcoming events, and decision points that need to be voted on. If you have never attended a meeting, please feel free to join us. &nbsp; General Meetings are usually conducted both in-person and virtually. Important: Once you RSVP you will receive an email with a link to details. Follow the link labeled, "Click here to view the event details" for specific location information and access to the virtual meeting. \n ID: [ 0e88265a-55fb-4d86-bca1-bb113fd61944 ] \n LINK: [ https://actionnetwork.org/events/may-2026-general-meeting-3 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly Board Games at Spielbound
+DTSTART;TZID=America/Chicago:20260417T170000
+DESCRIPTION: Monthly board game meetup at Spielbound! Come play board games with fellow members. Drop in and drop out is fine as your schedule permits! RSVP not necessary, this is an informal meetup. Cover cost is $7 and food and drink are available for purchase. If you need assistance with transportation or the cover cost, please let Colin know in the DSA discord or use the message event creator options on this event!For those who are so inclined, after this event another comrade is playing with their band very nearby to Spielbound at Coven at 9pm, for those who are interested in that as well. Carpooling can be arranged from Spielbound.  \n ID: [ 64435d52-efe9-40b4-9ffe-aaf8f690a174 ] \n LINK: [ https://actionnetwork.org/events/monthly-board-games-at-spielbound-2 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:April 2026 General Meeting
+DTSTART;TZID=America/Chicago:20260420T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include reports from working groups and committees, information on upcoming events, and decision points that need to be voted on. If you have never attended a meeting, please feel free to join us. &nbsp; General Meetings are usually conducted both in-person and virtually. Important: Once you RSVP you will receive an email with a link to details. Follow the link labeled, "Click here to view the event details" for specific location information and access to the virtual meeting. \n ID: [ f547700b-de6b-497c-8bb9-b2d7f71e6623 ] \n LINK: [ https://actionnetwork.org/events/april-2026-general-meeting-3 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly Board Games at Spielbound
+DTSTART;TZID=America/Chicago:20260220T170000
+DESCRIPTION: Casual social meetup to play board games! All are welcome and feel free to drop in and drop out as needed. We will be there well into the evening \n ID: [ dd19fd62-2f37-450f-8070-a3eec3c0ec9d ] \n LINK: [ https://actionnetwork.org/events/monthly-board-games-at-spielbound ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:March 2026 General Meeting
+DTSTART;TZID=America/Chicago:20260316T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include reports from working groups and committees, information on upcoming events, and decision points that need to be voted on. If you have never attended a meeting, please feel free to join us. &nbsp; General Meetings are usually conducted both in-person and virtually. Important: Once you RSVP you will receive an email with a link to details. Follow the link labeled, "Click here to view the event details" for specific location information and access to the virtual meeting. \n ID: [ 70efd797-8db6-440b-92d0-9b1d65624079 ] \n LINK: [ https://actionnetwork.org/events/march-2026-general-meeting-3 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:February 2026 General Meeting
+DTSTART;TZID=America/Chicago:20260209T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include reports from working groups and committees, information on upcoming events, and decision points that need to be voted on. If you have never attended a meeting, please feel free to join us. &nbsp; General Meetings are usually conducted both in-person and virtually. Important: Once you RSVP you will receive an email with a link to details. Follow the link labeled, "Click here to view the event details" for specific location information and access to the virtual meeting. \n ID: [ d5435670-39a2-4c81-a7bf-475966ca713f ] \n LINK: [ https://actionnetwork.org/events/february-2026-general-meeting-3 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Member Feedback Session: Chapter Meetings
+DTSTART;TZID=America/Chicago:20260131T160000
+DESCRIPTION: This is an event for attendees of our chapter meetings to provide feedback on how chapter meetings are run. Please bring us your constructive feedback and let us know if there is a way to improve the experience of chapter meetings. All members of the steering committee are planning to be present. Due to the reservation, we are limited to fifteen attendees. There will be some appetizers provided by the chapter with the option to purchase more if you wish.  \n ID: [ e11f0c32-f7c9-45eb-829c-5b9bb4436e14 ] \n LINK: [ https://actionnetwork.org/events/member-feedback-session-chapter-meetings ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:January 2026 General Meeting
+DTSTART;TZID=America/Chicago:20260112T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include reports from working groups and committees, information on upcoming events, and decision points that need to be voted on. If you have never attended a meeting, please feel free to join us. &nbsp; General Meetings are usually conducted both in-person and virtually. Important: Once you RSVP you will receive an email with a link to details. Follow the link labeled, "Click here to view the event details" for specific location information and access to the virtual meeting.  \n ID: [ adb8b472-5412-4812-9b98-b862878ac76b ] \n LINK: [ https://actionnetwork.org/events/january-2026-general-meeting-3 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:December 2025 General Meeting - Omaha DSA 
+DTSTART;TZID=America/Chicago:20251215T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include
+ reports from working groups and committees, information on upcoming 
+events, and decision points that need to be voted on. If you have never 
+attended a meeting, please feel free to join us. General Meetings
+ are usually conducted both in-person and virtually. We strongly 
+encourage in-person attendance, especially if you are new!Important:
+ Once you RSVP you will receive an email with a link to details. Follow 
+the link labeled, "Click here to view the event details" for specific 
+location information and access to the virtual meeting. \n ID: [ 8552b0ea-d6cf-419b-bf85-b374989a3ee9 ] \n LINK: [ https://actionnetwork.org/events/december-2025-general-meeting-omaha-dsa ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:November 2025 General Meeting - Omaha DSA 
+DTSTART;TZID=America/Chicago:20251117T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include
+ reports from working groups and committees, information on upcoming 
+events, and decision points that need to be voted on. If you have never 
+attended a meeting, please feel free to join us. General Meetings
+ are usually conducted both in-person and virtually. We strongly 
+encourage in-person attendance, especially if you are new!Important:
+ Once you RSVP you will receive an email with a link to details. Follow 
+the link labeled, "Click here to view the event details" for specific 
+location information and access to the virtual meeting. \n ID: [ cec4d71a-4568-4e43-94e4-e5c0c3b9fe2b ] \n LINK: [ https://actionnetwork.org/events/november-2025-general-meeting-omaha-dsa ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:October 2025 General Meeting - Omaha DSA 
+DTSTART;TZID=America/Chicago:20251020T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include
+ reports from working groups and committees, information on upcoming 
+events, and decision points that need to be voted on. If you have never 
+attended a meeting, please feel free to join us. General Meetings
+ are usually conducted both in-person and virtually. This months meeting will be on zoom only please use the zoom link in the RSVP to join. Important:
+ Once you RSVP you will receive an email with a link to details. Follow 
+the link labeled, "Click here to view the event details" for specific 
+location information and access to the virtual meeting. \n ID: [ ff9c9b9d-157e-4f2f-9a47-e50a41fc4212 ] \n LINK: [ https://actionnetwork.org/events/october-2025-general-meeting-omaha-dsa ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-2-2025 Omaha DSA Brake Light Clinic Planning Meeting
+DTSTART;TZID=America/Chicago:20251002T180000
+DESCRIPTION: Join us as we plan out our chapter's first Brake Light Clinic! \n ID: [ 6fe52762-5c73-409b-a5e4-ee1f3c1f2388 ] \n LINK: [ https://actionnetwork.org/events/10-2-2025-omaha-dsa-brake-light-clinic-planning-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-18-2025 Omaha DSA Brake Light Clinic Planning Meeting
+DTSTART;TZID=America/Chicago:20250918T180000
+DESCRIPTION: Join us as we plan out our chapter's first Brake Light Clinic! \n ID: [ 56d827cb-85f6-4287-ace6-8ae9cc6f36f3 ] \n LINK: [ https://actionnetwork.org/events/9-18-2025-omaha-dsa-brake-light-clinic-planning-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-10-2025 Omaha DSA Brake Light Clinic Planning Meeting
+DTSTART;TZID=America/Chicago:20250910T180000
+DESCRIPTION: Join us as we plan out our chapter's first Brake Light Clinic! \n ID: [ 1a3e2497-de2c-441f-a874-c795cb6d9a56 ] \n LINK: [ https://actionnetwork.org/events/9-10-2025-omaha-dsa-brake-light-clinic-planning-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-21-25 Omaha DSA Electoral 101
+DTSTART;TZID=America/Chicago:20250921T100000
+DESCRIPTION: Electoral Strategy 101: What is the DSA DifferenceA training to learn about the DSA Difference and how your chapter can approach electoral strategy.It is highly recommended that this training be scheduled with a group of chapter members not just the candidate or campaign staff. All trainings with DSA's electoral campaigns organizer must be limited to DSA members in good standing for compliance reasonsLocation: This is a Zoom web conference. \n ID: [ 35da7569-f7fd-4ba3-8853-5b61d0806564 ] \n LINK: [ https://actionnetwork.org/events/9-21-25-omaha-dsa-electoral-101 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:September 2025 General Meeting - Omaha DSA 
+DTSTART;TZID=America/Chicago:20250915T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include
+ reports from working groups and committees, information on upcoming 
+events, and decision points that need to be voted on. If you have never 
+attended a meeting, please feel free to join us. General Meetings
+ are usually conducted both in-person and virtually. We strongly 
+encourage in-person attendance, especially if you are new!Important:
+ Once you RSVP you will receive an email with a link to details. Follow 
+the link labeled, "Click here to view the event details" for specific 
+location information and access to the virtual meeting. \n ID: [ 73d80684-0c1b-4039-81c2-135a45402a16 ] \n LINK: [ https://actionnetwork.org/events/september-2025-general-meeting-omaha-dsa ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:August 2025 General Meeting - Omaha DSA 
+DTSTART;TZID=America/Chicago:20250818T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include
+ reports from working groups and committees, information on upcoming 
+events, and decision points that need to be voted on. If you have never 
+attended a meeting, please feel free to join us. General Meetings
+ are usually conducted both in-person and virtually. We strongly 
+encourage in-person attendance, especially if you are new!Important:
+ Once you RSVP you will receive an email with a link to details. Follow 
+the link labeled, "Click here to view the event details" for specific 
+location information and access to the virtual meeting. \n ID: [ b9f9af69-c2be-4f07-bac1-a08e8054fa97 ] \n LINK: [ https://actionnetwork.org/events/august-2025-general-meeting-omaha-dsa ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:July 2025 General Meeting - Omaha DSA 
+DTSTART;TZID=America/Chicago:20250721T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include
+ reports from working groups and committees, information on upcoming 
+events, and decision points that need to be voted on. If you have never 
+attended a meeting, please feel free to join us. General Meetings
+ are usually conducted both in-person and virtually. We strongly 
+encourage in-person attendance, especially if you are new!Important:
+ Once you RSVP you will receive an email with a link to details. Follow 
+the link labeled, "Click here to view the event details" for specific 
+location information and access to the virtual meeting. \n ID: [ 2d3ab2ef-fcc4-48ff-9b22-e29ee9c405d0 ] \n LINK: [ https://actionnetwork.org/events/july-2025-general-meeting-omaha-dsa ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:7-10-2025 Assessing Capacity & Building Leaders
+DTSTART;TZID=America/Chicago:20250710T180000
+DESCRIPTION: Learn how to build our capacity within the chapter so we can win transformative demands. \n ID: [ 25b0e2d5-da82-4301-864b-9812da536f3b ] \n LINK: [ https://actionnetwork.org/events/7-10-2025-assessing-capacity-building-leaders ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Omaha DSA Chapter Convention
+DTSTART;TZID=America/Chicago:20250621T123000
+DESCRIPTION: Join us for the first annual Omaha DSA Chapter Convention! All members in good standing are welcome to attend. Help determine the priorities and direction of Omaha DSA for the coming year, and elect the new Steering Committee for 2025-26. Non-members may also RSVP, but will not be eligible to vote on action items.This meeting will double as the chapter's General Meeting for June, there will not be a separate general meeting this month.Omaha DSA members in good standing as of June 14, 2025 will be automatically registered for voting at the event, but we ask that anyone wishing to attend RSVP here. If you are not a DSA member, join us! \n ID: [ 4a3fe254-be44-4196-84cd-073740a90bc2 ] \n LINK: [ https://actionnetwork.org/events/2025-omaha-dsa-chapter-convention ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5-8-2025 Strategic Pressure Campaigns
+DTSTART;TZID=America/Chicago:20250508T180000
+DESCRIPTION: Lean what strategic pressure campaigns are, why we do them, and the basics of how to run one. \n ID: [ d9a0f035-6b15-4b95-aac1-f75ee2813735 ] \n LINK: [ https://actionnetwork.org/events/5-8-2025-strategic-pressure-campaigns ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5-6-2025 Building a Mass Organization
+DTSTART;TZID=America/Chicago:20250506T180000
+DESCRIPTION: Learn about DSA's theory of change, and our basic strategy as a socialist mass organization. \n ID: [ fce3172b-9799-4b60-a6fd-596a200c9883 ] \n LINK: [ https://actionnetwork.org/events/5-6-2025-building-a-mass-organization ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omaha DSA May 2025 General Meeting
+DTSTART;TZID=America/Chicago:20250519T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include
+ reports from working groups and committees, information on upcoming 
+events, and decision points that need to be voted on. If you have never 
+attended a meeting, please feel free to join us. General Meetings
+ are usually conducted both in-person and virtually. We strongly 
+encourage in-person attendance, especially if you are new!Check out what's on the agenda.Important:
+ Once you RSVP you will receive an email with a link to details. Follow 
+the link labeled, "Click here to view the event details" for specific 
+location information and access to the virtual meeting. \n ID: [ 10e21a64-466a-46f0-b03f-12ef2ebb7080 ] \n LINK: [ https://actionnetwork.org/events/may-2025-general-meeting-omaha-dsa ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3-27-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20260327T180000
+DESCRIPTION: The 109th Nebraska Legislature has reconvened for its 2nd Session. We're having a Zoom meeting to go over strategy. \n ID: [ b0738bb5-4671-4835-b1b9-75354936d965 ] \n LINK: [ https://actionnetwork.org/events/3-27-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Q&A with NPC Candidate Sarah Milner
+DTSTART;TZID=America/Chicago:20250415T200000
+DESCRIPTION: Please join Omaha DSA as we meet with National Political Committee (NPC) Candidate Sarah Milner. Sarah is a member of the Reform and Revolution caucus within DSA. She is also a rank and file union letter carrier, a transgender woman, and the co-chair of DSA's Communication's Committee. She has been a member of Portland DSA for 7 years, joining in 2018 during the Occupy ICE protests and founded a YDSA chapter during her time in college. Sarah served in Portland DSA leadership for 3 years. In her chapter, she established the chapter's successful endorsement policy and SIOC. She helped write and introduce the agenda change at the 2023 Convention, and co-chaired the Trans Rights and Bodily Autonomy campaign!You can read about Sarah's platform here! \n ID: [ 0c59280b-4bda-4f21-b1a8-7e153848ed8c ] \n LINK: [ https://actionnetwork.org/events/qa-with-npc-candidate-sara-milner ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:April 2025 General Meeting - Omaha DSA 
+DTSTART;TZID=America/Chicago:20250421T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include
+ reports from working groups and committees, information on upcoming 
+events, and decision points that need to be voted on. If you have never 
+attended a meeting, please feel free to join us. General Meetings
+ are usually conducted both in-person and virtually. We strongly 
+encourage in-person attendance, especially if you are new!Important:
+ Once you RSVP you will receive an email with a link to details. Follow 
+the link labeled, "Click here to view the event details" for specific 
+location information and access to the virtual meeting. \n ID: [ b04cf432-0e0d-4371-815e-386f26e2b691 ] \n LINK: [ https://actionnetwork.org/events/april-2025-general-meeting-omaha-dsa ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Public Hearing on Minimum Wage Ordinance in Omaha
+DTSTART;TZID=America/Chicago:20260616T140000
+DESCRIPTION: Omaha City Council is having a public hearing on Tuesday, June 16, on a proposed ordinance that would restore the $15 minimum wage that voters approved back in 2022 for all workers within the City of Omaha, that would increase annually scaled to Consumer Price Index.Earlier this year, the Nebraska Legislature passed LB258, which overrode the will of the voters and capped annual increases to 1.75% and introduced sub-minimum wage for minors.It's important that you show up, and that Omaha City Council hears your concerns about minimum wage in Nebraska, and the Nebraska Legislature ignoring the will of the voters, so that as a group, the Omaha community can be effective in building the structure to demand better working conditions. \n ID: [ fbe109cc-1679-4e7f-b3ec-ef8674197290 ] \n LINK: [ https://actionnetwork.org/events/public-hearing-minimum-wage-ordinance ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12-11-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20261211T180000
+DESCRIPTION: The 109th Nebraska Legislature has adjourned SINE DIE. We're having a Zoom meeting to go over what we need to do in the interim. \n ID: [ 1b63d15d-bf94-46df-9093-6b75032e7d2f ] \n LINK: [ https://actionnetwork.org/events/12-11-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11-13-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20261113T180000
+DESCRIPTION: The 109th Nebraska Legislature has adjourned SINE DIE. We're having a Zoom meeting to go over what we need to do in the interim. \n ID: [ dc3c68c9-24bc-4f62-b953-fbcd1c032fd7 ] \n LINK: [ https://actionnetwork.org/events/11-13-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-9-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20261009T180000
+DESCRIPTION: The 109th Nebraska Legislature has adjourned SINE DIE. We're having a Zoom meeting to go over what we need to do in the interim. \n ID: [ 17d68232-88b5-4d0f-a876-07290b35ecc5 ] \n LINK: [ https://actionnetwork.org/events/10-9-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-11-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20260911T180000
+DESCRIPTION: The 109th Nebraska Legislature has adjourned SINE DIE. We're having a Zoom meeting to go over what we need to do in the interim. \n ID: [ 1860d2c7-e7fd-45aa-90a4-52aa44c908f5 ] \n LINK: [ https://actionnetwork.org/events/9-11-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8-14-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20260814T180000
+DESCRIPTION: The 109th Nebraska Legislature has adjourned SINE DIE. We're having a Zoom meeting to go over what we need to do in the interim. \n ID: [ 17f4f4f0-731c-4f43-a74b-6d322a3e27b2 ] \n LINK: [ https://actionnetwork.org/events/8-7-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:7-10-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20260710T180000
+DESCRIPTION: The 109th Nebraska Legislature has adjourned SINE DIE. We're having a Zoom meeting to go over what we need to do in the interim. \n ID: [ 25c6b2ee-1e76-4ff6-90d3-8f348392dcfd ] \n LINK: [ https://actionnetwork.org/events/7-10-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6-12-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20260612T180000
+DESCRIPTION: The 109th Nebraska Legislature has adjourned SINE DIE. We're having a Zoom meeting to go over what we need to do in the interim. \n ID: [ de7cbf7e-ffb5-4b13-9315-91b94dede5b3 ] \n LINK: [ https://actionnetwork.org/events/6-12-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5-8-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20260508T180000
+DESCRIPTION: The 109th Nebraska Legislature has adjourned SINE DIE. We're having a Zoom meeting to go over what we need to do in the interim. \n ID: [ 9227e195-7998-4b63-b31d-6534908323a3 ] \n LINK: [ https://actionnetwork.org/events/5-8-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4-24-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20260424T180000
+DESCRIPTION: The 109th Nebraska Legislature has adjourned SINE DIE. We're having a Zoom meeting to go over what we need to do in the interim. \n ID: [ 8043646b-2971-4eb2-b24a-c9acfbc1f695 ] \n LINK: [ https://actionnetwork.org/events/4-24-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4-10-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20260410T180000
+DESCRIPTION: The 109th Nebraska Legislature has reconvened for its 2nd Session. We're having a Zoom meeting to go over strategy. \n ID: [ e6861356-dee0-46bd-971f-2605c77e3802 ] \n LINK: [ https://actionnetwork.org/events/4-10-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3-13-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20260313T180000
+DESCRIPTION: The 109th Nebraska Legislature has reconvened for its 2nd Session. We're having
+        a Zoom meeting to go over strategy.
+    
+    
+        
+            Agenda (tentative):
+        
+        Call meeting to order
+            Introductions
+            Community agreements
+            Choose recording secretary
+            Review, amend and approve agenda
+            Announcements and communications
+            Reports109th Nebraska Legislature 2nd SessionUnfinished businessLB258 -- Sub-minimum wage bill for minors
+                
+                New businessGood and Welfare
+                Set next meeting date
+                Adjournment
+                
+                
+            
+        
+    
+
+ \n ID: [ 3129a965-eda7-41f2-9b93-9a404bacbae2 ] \n LINK: [ https://actionnetwork.org/events/3-13-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2-27-2026 Lincoln and Omaha DSA Legislative Working Group Zoom Meeting
+DTSTART;TZID=America/Chicago:20260227T180000
+DESCRIPTION: The 109th Nebraska Legislature has reconvened for its 2nd Session. We're having
+        a Zoom meeting to go over strategy.
+    
+    
+        
+            Agenda (tentative):
+        
+        Call meeting to order
+            Introductions
+            Community agreements
+            Choose recording secretary
+            Review, amend and approve agenda
+            Announcements and communications
+            Reports109th Nebraska Legislature 2nd SessionUnfinished businessLB258 -- Sub-minimum wage bill for minors
+                
+                New businessGood and Welfare
+                Set next meeting date
+                Adjournment
+                
+                
+            
+        
+    
+
+ \n ID: [ d87fa5ae-4a15-4ad1-a7f0-04c6e2113f7e ] \n LINK: [ https://actionnetwork.org/events/2-27-2026-lincoln-and-omaha-dsa-legislative-working-group-zoom-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11-15-2025 Post-Coffee Flyering in Precinct 08-04
+DTSTART;TZID=America/Chicago:20251115T110000
+DESCRIPTION: Come to the weekly coffee social on 9am, stay to flyer Precinct 08-04 to oppose LB258. \n ID: [ 94d60798-a307-4570-bca0-510a854353ed ] \n LINK: [ https://actionnetwork.org/events/11-15-2025-post-coffee-flyering-in-precinct-08-04 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5-1-2026 Premier Beverage Strike Picket
+DTSTART;TZID=America/Chicago:20260501T090000
+DESCRIPTION: Teamsters Local 554 is on strike against Premier-Midwest Beer & Beverage, and need bodies to march on the picket line.This is a 24/7 picket, so they will be there any time of the day.Please park on the street, on the east side of 134th St, and stay on the right-of-way.Please note that there is no bathroom on premises. The closest bathroom is the Love's Travel Stop on 14375 Cornhusker Road, Omaha, NE 68138, which is about a three-minute drive. \n ID: [ 59d1005c-7ad5-4a2d-a370-9e97df7aea88 ] \n LINK: [ https://actionnetwork.org/events/5-1-2026-premier-beverage-strike-picket ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2-16-2026 Premier Beverage Strike Picket
+DTSTART;TZID=America/Chicago:20260216T090000
+DESCRIPTION: Teamsters Local 554 is on strike against Premier-Midwest Beer & Beverage, and need bodies to march on the picket line.This is a 24/7 picket, but they're particularly asking for Monday, February 16, any time of the day.Please park on the street, on the east side of 134th St, and stay on the right-of-way. \n ID: [ 9eaec11f-9e78-4c26-a7b0-2f9d396d3d3c ] \n LINK: [ https://actionnetwork.org/events/2-16-2026-premier-beverage-strike-picket ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11-26-2025 Stop Buying Starbucks @ 114th & West Dodge
+DTSTART;TZID=America/Chicago:20251126T170000
+DESCRIPTION: 
+	If Starbucks won’t move on a fair contract and quit its union 
+busting campaign, baristas are ready to strike right on the company's busiest sales day of the year. The
+ most powerful thing customers and allies can do during the strike is 
+show up at non-union Starbucks stores and turn away customers. Every conversation is a chance to grow solidarity and support baristas holding the line.
+
+ \n ID: [ 1c1e8e98-c7cc-4b7c-acae-2967111c21aa ] \n LINK: [ https://actionnetwork.org/events/11-26-2025-stop-buying-starbucks-114th-west-dodge ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11-18-2025 Stop Buying Starbucks @ 114th & West Dodge
+DTSTART;TZID=America/Chicago:20251118T110000
+DESCRIPTION: If Starbucks won’t move on a fair contract and quit its union 
+busting campaign, baristas are ready to strike on Thursday, November 13,
+ right on the company's busiest sales day of the year. The
+ most powerful thing customers and allies can do during the strike is 
+show up at non-union Starbucks stores and turn away customers. Every conversation is a chance to grow solidarity and support baristas holding the line.
+ \n ID: [ 14d22748-5c7f-4271-ad72-47ae907680c1 ] \n LINK: [ https://actionnetwork.org/events/11-18-2025-stop-buying-starbucks-114th-west-dodge ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11-14-2025 Stop Buying Starbucks @ 114th & West Dodge
+DTSTART;TZID=America/Chicago:20251114T110000
+DESCRIPTION: If Starbucks won’t move on a fair contract and quit its union busting campaign, baristas are ready to strike on Thursday, November 13, right on the company's busiest sales day of the year. The most powerful thing customers and allies can do during the strike is show up at non-union Starbucks stores and turn away customers. Every conversation is a chance to grow solidarity and support baristas holding the line. \n ID: [ db28cacd-e4c2-46f6-8c2e-af85f487380d ] \n LINK: [ https://actionnetwork.org/events/11-14-2025-stop-buying-starbucks-114th-west-dodge ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLIDARITY FOREVER, 72nd & Dodge!
+DTSTART;TZID=America/Chicago:20250927T050000
+DESCRIPTION: Starbucks CEO Brian Niccol is a twenty-seven billion dollar bloodsucker; a monumental monster and a pirate on the high seas of labor, and a union-buster who thinks getting paid $96 million in four months last year is more important than the livelihoods of the 900 baristas he's laying off with two days advance notice.The 72nd & Dodge Starbucks is one of the two unionized locations in Omaha, under Starbucks Workers United. It will be closing its doors on Saturday, September  27, along with 58 other unionized stores across the country in Niccol's latest attempt to bust up the labor union. Come here on Saturday from 5am to 9pm and learn how to get activated--make some signs, do some visibility, draw stuff with sidewalk chalk, and show the baristas here that you have more emotional maturity than their garbage billionaire CEO.UPDATE:This is not the only store in Omaha that's closing on Saturday. If you know of one and want to organize there, feel free to host an event on this page, which will provide a searchable list of corporate-owned Starbucks locations in the Omaha area:https://actionnetwork.org/event_campaigns/omaha-dsa-solidarity-is-brewingUPDATE 2:The other stores believed to be closing are believed to be:90th & Fort90th & Maple72nd & L72nd and Dodge is the only unionized store that's closing. It's also right in the middle of all the store closures, which makes it a convenient staging point for other actions. \n ID: [ 8d7c9727-c027-47b0-99cd-a09648c3e2b6 ] \n LINK: [ https://actionnetwork.org/events/solidarity-forever-72nd-dodge ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sip-In for Solidarity 
+DTSTART;TZID=America/Chicago:20250511T130000
+DESCRIPTION: Join the Omaha DSA and members of the local Omaha community as we gather to show support to Starbucks employees that are fighting for their right to fair wages, safe work conditions, and the right to unionize. It’s important to let them know they aren’t alone and that the community stands with them during this time, so join us and get a small snack and congregate with us to show support to our local Starbucks workers.  \n ID: [ 7ad11454-5732-4060-bedb-80c9b591fe88 ] \n LINK: [ https://actionnetwork.org/events/sip-in-for-solidarity ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Come Picket The Union For Contemporary Art
+DTSTART;TZID=America/Chicago:20250426T120000
+DESCRIPTION: The Executive Director of the Union For Contemporary Arts, Lakesha Green has illegally fired workers for organizing a labor union and fostered a toxic & hostile work environment that led the workers to organize in the first place. Come show up in front of their building during their so-called "Union Day" Open House, and let them know that Union Busting Is Disgusting! \n ID: [ 06030ef8-6959-494b-b6f4-e7470873691e ] \n LINK: [ https://actionnetwork.org/events/come-picket-the-union-for-contemporary-art ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20260118T160000
+DESCRIPTION: Omaha Housing Campaign Meeting  \n ID: [ 20d9259a-c6e8-458a-8699-ca55d2ad1cb3 ] \n LINK: [ https://actionnetwork.org/events/omaha-dsa-affordable-housing-campaign-strategy-meeting-3 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11-16-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20251116T160000
+DESCRIPTION: Join us via zoom to help strategize our Affordable Housing Campaign. \n ID: [ 2857e1a8-f184-44e3-8a1a-3a826019b9f2 ] \n LINK: [ https://actionnetwork.org/events/11-16-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11-2-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20251102T160000
+DESCRIPTION: Join us via zoom to help strategize our Affordable Housing Campaign. \n ID: [ 2069c5b4-a3d9-4dfc-a40b-ab9ebba1afc0 ] \n LINK: [ https://actionnetwork.org/events/11-2-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-26-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20251026T160000
+DESCRIPTION: Join us via zoom to help strategize our Affordable Housing Campaign. \n ID: [ 689b7394-845f-40b7-abbe-3771d1b53525 ] \n LINK: [ https://actionnetwork.org/events/10-26-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-22-2025 Omaha Housing Authority Board Special Meeting
+DTSTART;TZID=America/Chicago:20251022T070000
+DESCRIPTION: The Omaha Housing Authority conducts their meetings under the Nebraska Open Meetings Act, and we deserve to know what the heck's goin' on in here. \n ID: [ 513c4a43-8903-4722-9e1f-e394ea990901 ] \n LINK: [ https://actionnetwork.org/events/10-22-2025-omaha-housing-authority-board-special-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-19-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20251019T160000
+DESCRIPTION: Join us via zoom to help strategize our Affordable Housing Campaign. \n ID: [ e0642053-cfca-473e-a2ab-71755dfaa990 ] \n LINK: [ https://actionnetwork.org/events/10-19-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-24-2025 Affordable Housing Day in the Nebraska State Capitol
+DTSTART;TZID=America/Chicago:20251024T100000
+DESCRIPTION: The Nebraska Legislature Urban Affairs Committee is having its public hearings for interim studies related to affordable housing in Nebraska on Friday, October 24 @ 10am. Show up to testify in person, submit comments for the public record (comments due by 8am on the same day), or watch and learn what other groups are saying about the state of affordable housing in Nebraska.Interim studies include:LR86--Interim study to identify and examine the state of affordable and accessible housing in NebraskaLR146--Interim study to examine the intersection of tax increment financing and affordable housing within the State of NebraskaLR163--Interim study to examine the impact of lead and other environmental pollutants on the health and well-being of Nebraska communitiesLR165--Interim study to examine the concentration and impact of nonprofit organizations in historically marginalized communities, specifically North and South OmahaLR213--Interim study to examine the connection between neighborhood-level investment and youth outcomes, including, but not limited to, educational attainment, youth violence, and long-term well being \n ID: [ c238acb7-83dc-466d-8862-1c6dd27137cf ] \n LINK: [ https://actionnetwork.org/events/affordable-housing-day-in-the-nebraska-state-capitol ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-12-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20251012T160000
+DESCRIPTION: Join us via zoom to help strategize our Affordable Housing Campaign. \n ID: [ 6d8c514e-399d-4fa1-942d-f94e4df56ba9 ] \n LINK: [ https://actionnetwork.org/events/10-12-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11-13-2025 Omaha Housing Authority Board Meeting
+DTSTART;TZID=America/Chicago:20251113T083000
+DESCRIPTION: The Omaha Housing Authority conducts their meetings under the Nebraska Open Meetings Act, and we deserve to know what the heck's goin' on in here. \n ID: [ a0fe630e-fd09-40d2-9f7f-d25b30dd32ce ] \n LINK: [ https://actionnetwork.org/events/11-13-2025-omaha-housing-authority-board-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-5-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20251005T150000
+DESCRIPTION: Join us in person, in the Omaha Public Library Downtown Branch, as we strategize for our affordable housing campaign. \n ID: [ 99d3702e-395d-4ac3-95ed-8e7aadb320b5 ] \n LINK: [ https://actionnetwork.org/events/10-5-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-28-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20250928T160000
+DESCRIPTION: Join us virtually as we strategize for our affordable housing campaign.Important:
+ Once you RSVP you will receive an email with a link to details.
+ \n ID: [ 3407b63b-8df3-4661-9afc-c4dee92244d7 ] \n LINK: [ https://actionnetwork.org/events/9-28-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-23-2025 Omaha City Council Meeting
+DTSTART;TZID=America/Chicago:20250923T140000
+DESCRIPTION: The City of Omaha is having a public hearing for an ordinance to criminalize homelessness (Ordinance 44395). We need to show up to oppose it. \n ID: [ 79b3ddb5-f47c-4bb6-b81b-503825e11911 ] \n LINK: [ https://actionnetwork.org/events/9-23-2025-omaha-city-council-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-21-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20250921T160000
+DESCRIPTION: Join us virtually as we strategize for our affordable housing campaign.Important:
+ Once you RSVP you will receive an email with a link to details.
+ \n ID: [ 96440353-4a65-415a-922b-45e4dc407726 ] \n LINK: [ https://actionnetwork.org/events/9-21-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10-2-2025 Omaha Housing Authority Board Meeting
+DTSTART;TZID=America/Chicago:20251002T083000
+DESCRIPTION: The Omaha Housing Authority conducts their meetings under the Nebraska Open Meetings Act, and we deserve to know what the heck's goin' on in here. \n ID: [ 1d375df9-c35a-4d3a-a9e7-37638312310c ] \n LINK: [ https://actionnetwork.org/events/10-2-2025-omaha-housing-authority-board-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-14-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20250914T160000
+DESCRIPTION: Join us virtually as we strategize for our affordable housing campaign.Important:
+ Once you RSVP you will receive an email with a link to details.
+ \n ID: [ a1b15aeb-1044-4e47-8b0d-e3b73e896c60 ] \n LINK: [ https://actionnetwork.org/events/9-14-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-7-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20250907T160000
+DESCRIPTION: Join us virtually as we strategize for our affordable housing campaign.Important:
+ Once you RSVP you will receive an email with a link to details.
+ \n ID: [ 95d0750f-5788-4d49-afb1-146321722cc8 ] \n LINK: [ https://actionnetwork.org/events/9-7-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8-31-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20250831T160000
+DESCRIPTION: Join us virtually as we strategize for our affordable housing campaign.Important:
+ Once you RSVP you will receive an email with a link to details.
+ \n ID: [ c8935022-2538-4b94-9888-dbc90ee25bb0 ] \n LINK: [ https://actionnetwork.org/events/8-31-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8-26-2025 Omaha City Council Meeting
+DTSTART;TZID=America/Chicago:20250826T140000
+DESCRIPTION: We need eyes and ears inside the chamber, for two reasons:Oppose criminalization of homelessness ordinance (Ordinance 44395)City Council might ram through the budgetFull agenda here. \n ID: [ cfabbd58-331c-42d9-ae7e-b0ec0a6514f1 ] \n LINK: [ https://actionnetwork.org/events/8-26-2025-omaha-city-council-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-4-2025 Omaha Housing Authority Board Meeting
+DTSTART;TZID=America/Chicago:20250904T083000
+DESCRIPTION: The Omaha Housing Authority conducts their meetings under the Nebraska Open Meetings Act, and we deserve to know what the heck's goin' on in here. \n ID: [ 118a8089-91c2-4d84-b676-4e8c76aaf6c1 ] \n LINK: [ https://actionnetwork.org/events/9-4-2025-omaha-housing-authority-board-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8-24-2025 Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20250824T160000
+DESCRIPTION: Join us virtually as we strategize for our affordable housing campaign.Important:
+ Once you RSVP you will receive an email with a link to details.
+ \n ID: [ a47caa83-bf57-4f8a-b798-c29101e776b6 ] \n LINK: [ https://actionnetwork.org/events/8-24-2025-omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20250817T160000
+DESCRIPTION: Join us virtually as we strategize for our affordable housing campaign.Important:
+ Once you RSVP you will receive an email with a link to details. \n ID: [ d419e660-6297-4cc6-9d2a-9d2c64139698 ] \n LINK: [ https://actionnetwork.org/events/omaha-dsa-affordable-housing-campaign-strategy-meeting-2 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omaha DSA Affordable Housing Campaign Strategy Meeting
+DTSTART;TZID=America/Chicago:20250803T160000
+DESCRIPTION: Join us virtually as we strategize for our affordable housing campaign.Important:
+ Once you RSVP you will receive an email with a link to details. Follow 
+the link labeled, "Click here to view the event details" for specific 
+location information and access to the virtual meeting. \n ID: [ 0bc9d834-ded0-44f3-883a-de3978d80ea0 ] \n LINK: [ https://actionnetwork.org/events/omaha-dsa-affordable-housing-campaign-strategy-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Housing Campaign Workshop with Midwest Regional Organizer 
+DTSTART;TZID=America/Chicago:20250727T160000
+DESCRIPTION: Meeting with Tom the Midwest Regional Organizer for getting the housing campaign set up and organized. Please join to learn more on how to build and form the campaign.  \n ID: [ 9e278840-eae1-4e9b-be5c-c0d801ac7d26 ] \n LINK: [ https://actionnetwork.org/events/housing-campaign-workshop-with-midwest-regional-organizer ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Housing Campaign Development  with GNDCC
+DTSTART;TZID=America/Chicago:20250805T183000
+DESCRIPTION: Housing Campaign development meeting with the Green New Deal Steering Committee leader Nicole. WIll be going over campaign plans, steps to complete, and how to start a campaign in green housing. &nbsp; \n ID: [ 15beaa2b-3ef7-4514-8fe2-67a9a0d534a0 ] \n LINK: [ https://actionnetwork.org/events/housing-campaign-development-with-gndcc ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5-21-2026 2026 Convention Committees Meeting
+DTSTART;TZID=America/Chicago:20260521T180000
+DESCRIPTION: Help us plan the 2026 Chapter Convention. This is to flesh out our timetable and elections process, so we can have our convention in June 2026. \n ID: [ 3714a7f6-e83a-4f14-b6f1-62f67b2ba155 ] \n LINK: [ https://actionnetwork.org/events/5-21-2026-2026-convention-committees-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5-7-2026 2026 Convention Committees Meeting
+DTSTART;TZID=America/Chicago:20260507T180000
+DESCRIPTION: Help us plan the 2026 Chapter Convention. This is to flesh out our timetable and elections process, so we can have our convention in June 2026. \n ID: [ 4553c4b2-cd47-4c94-9154-c102a45eeef8 ] \n LINK: [ https://actionnetwork.org/events/5-7-2026-2026-convention-committees-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Omaha DSA Chapter Convention
+DTSTART;TZID=America/Chicago:20260606T110000
+DESCRIPTION: The annual Omaha DSA Chapter Convention will take place on June 6, 2026. This RSVP will serve to assist the Convention Committee in event planning. Please take a moment to complete the form.Note: an RSVP is not required to attend the event. More details pertaining to location and agenda will be released closer to the meeting date. \n ID: [ fbd30c03-def4-4606-9f04-212705d9ecac ] \n LINK: [ https://actionnetwork.org/events/2026-omaha-dsa-chapter-convention ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4-9-2026 2026 Convention Committees Meeting
+DTSTART;TZID=America/Chicago:20260409T180000
+DESCRIPTION: Help us plan the 2026 Chapter Convention. This is to flesh out our timetable and elections process, so we can have our convention in June 2026. \n ID: [ b13fe89f-3d15-4e6c-af85-a02304cbf141 ] \n LINK: [ https://actionnetwork.org/events/4-9-2026-2026-convention-committees-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3-12-2026 2026 Convention Committees Meeting
+DTSTART;TZID=America/Chicago:20260312T180000
+DESCRIPTION: Help us plan the 2026 Chapter Convention. This is to flesh out our timetable and elections process, so we can have our convention in June 2026. \n ID: [ 61e588f4-3ea5-4027-a459-b340b5915490 ] \n LINK: [ https://actionnetwork.org/events/3-12-2026-2026-convention-committees-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2-12-2026 2026 Convention Committees Meeting
+DTSTART;TZID=America/Chicago:20260212T180000
+DESCRIPTION: Help us plan the 2026 Chapter Convention. This is to flesh out our timetable and elections process, so we can have our convention in June 2026. \n ID: [ 9a9cc19e-4ea5-4075-b983-2beba3870092 ] \n LINK: [ https://actionnetwork.org/events/2-12-2026-2026-convention-committees-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1-8-2026 2026 Convention Committees Meeting
+DTSTART;TZID=America/Chicago:20260108T180000
+DESCRIPTION: Help us plan the 2026 Chapter Convention. This is to flesh out our timetable and elections process, so we can have our convention in June 2026. \n ID: [ 15fa656c-d425-4c0f-b844-36eadcfcecc5 ] \n LINK: [ https://actionnetwork.org/events/1-8-2026-2026-convention-committees-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12-5-2025 2026 Convention Committees Meeting
+DTSTART;TZID=America/Chicago:20251205T180000
+DESCRIPTION: Help us plan the 2026 Chapter Convention. Basically, what we're doing is deciding on a timetable, so we can have our convention in June 2026. \n ID: [ 969f4556-9d33-4d27-8943-878a85491bb4 ] \n LINK: [ https://actionnetwork.org/events/12-5-2025-2026-convention-committees-meeting ].
+STATUS: Published = true
 END:VEVENT
 END:VCALENDAR
