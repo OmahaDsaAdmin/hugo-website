@@ -38,6 +38,30 @@ DESCRIPTION: Every month, the tech committee meets to discuss on-going work and 
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DSA 101
+DTSTART;TZID=America/Chicago:20260829T100000
+DESCRIPTION: DSA 101 is an event for new members and non members where you will be introduced to socialism and DSA! You will hear directly from chapter leaders and active members about our inspiring vision for mass politics, member democracy, and class struggle campaigns that our chapter is organizing. \n ID: [ a7b5cb3d-fade-4bdf-84a4-1ca5a4ef43b1 ] \n LINK: [ https://actionnetwork.org/events/dsa-101-147 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - August 10th, 2026
+DTSTART;TZID=America/Chicago:20260810T180000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG.  \n ID: [ fba0f12a-769f-425c-b811-ae005fd2337f ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-august-10th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:August 2026 General Meeting
+DTSTART;TZID=America/Chicago:20260817T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include reports from working groups and committees, information on upcoming events, and decision points that need to be voted on. If you have never attended a meeting, please feel free to join us. &nbsp; General Meetings are usually conducted both in-person and virtually. Important: Once you RSVP you will receive an email with a link to details. Follow the link labeled, "Click here to view the event details" for specific location information and access to the virtual meeting. \n ID: [ d4729837-7410-42e1-bb57-2db03b02d27e ] \n LINK: [ https://actionnetwork.org/events/august-2026-general-meeting-2 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8-16-2026 Omaha DSA Electoral Working Group Meeting
+DTSTART;TZID=America/Chicago:20260816T103000
+DESCRIPTION: Come join us as we discuss the formation of an Electoral Working Group for Omaha DSA. \n ID: [ c68eefe7-2fc4-4b8b-a095-1c00fbff4ea1 ] \n LINK: [ https://actionnetwork.org/events/8-16-2026-omaha-dsa-electoral-working-group-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
