@@ -62,6 +62,12 @@ DESCRIPTION: Come join us as we discuss the formation of an Electoral Working Gr
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - August 24th, 2026
+DTSTART;TZID=America/Chicago:20260824T180000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG.  \n ID: [ c33553ac-448c-4afe-b456-62b706da909e ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-august-24th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
