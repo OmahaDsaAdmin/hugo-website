@@ -74,6 +74,12 @@ DESCRIPTION: Every month, the tech committee meets to discuss on-going work and 
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:7-20-2026 Effective Coalition Work
+DTSTART;TZID=America/Chicago:20260820T170000
+DESCRIPTION: Learn how to grow the power to win justice. \n ID: [ 63bc867c-1b66-4dd0-86e8-43cb3453896e ] \n LINK: [ https://actionnetwork.org/events/7-20-2026-effective-coalition-work ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
