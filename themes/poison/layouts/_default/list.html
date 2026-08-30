@@ -21,7 +21,7 @@
 <h1>Event History</h1>
 {{ end }}
 {{ range .Pages }}
-<article>
+<article class="history-parent" time='{{ .Date.Format "1/2/2006" }}'>
   <h3 class="title">
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </h3>
