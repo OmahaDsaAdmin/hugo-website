@@ -104,6 +104,18 @@ DESCRIPTION: Join us in a joint training with Heart of Iowa DSA to learn about D
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:September 2026 General meeting
+DTSTART;TZID=America/Chicago:20260921T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include reports from working groups and committees, information on upcoming events, and decision points that need to be voted on. The agenda will be released a minimum of 5 days prior to the meeting. Even if you have never attended a meeting, please feel free to join us!General Meetings are usually conducted both in-person and virtually. Important: Once you RSVP you will receive an email with a link to details. Follow the link labeled, "Click here to view the event details" for specific location information and access to the virtual meeting. \n ID: [ f491c600-8d9b-49ee-a163-36ee72841609 ] \n LINK: [ https://actionnetwork.org/events/august-2026-general-meeting-4 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-17-2026 Oppose HR1 in the DHHS Medicaid Advisory Committee
+DTSTART;TZID=America/Chicago:20260917T150000
+DESCRIPTION: H.R. 1, the Reconciliation Bill (aka the “One Big Beautiful Bill Act”), which includes significant policy changes to Medicaid and the Health Insurance Marketplaces, is on the agenda for this upcoming meeting of Nebraska DHHS’ Medicaid Advisory Committee this Thursday. Let’s turn out in force to help protect our healthcare! \n ID: [ 5ffe0560-314d-47bb-a9bb-5d080681ea60 ] \n LINK: [ https://actionnetwork.org/events/9-17-2026-oppose-hr1-in-the-dhhs-medicaid-advisory-committee ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
