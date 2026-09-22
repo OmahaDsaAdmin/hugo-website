@@ -116,6 +116,12 @@ DESCRIPTION: H.R. 1, the Reconciliation Bill (aka the “One Big Beautiful Bill 
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - September 28th, 2026
+DTSTART;TZID=America/Chicago:20260928T180000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. Come down and see our many projects! \n ID: [ 7f94d1f8-283d-453a-8b3d-0ef9d8f6fad2 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-september-28th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
