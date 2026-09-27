@@ -122,6 +122,18 @@ DESCRIPTION: Ongoing meeting series for the ODSA MAWG. Come down and see our man
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:9-28-2026 Medicaid Open House with Nebraska Appleseed and Pender Community Health
+DTSTART;TZID=America/Chicago:20260928T173000
+DESCRIPTION: Nebraska Appleseed and Pender Community Health are partnering to host an open house event focused on the new Medicaid expansion work requirements in Pender, Nebraska, in Thurston County.We are showing up to learn more about how the Pender Community Hospital itself is ran. \n ID: [ 1a2dabca-fd51-498c-81d3-2b1e14dda4e7 ] \n LINK: [ https://actionnetwork.org/events/9-28-2026-medicaid-open-house-with-appleseed-and-pch ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9-28-2026 Premier Beverage Strike Picket
+DTSTART;TZID=America/Chicago:20260928T090000
+DESCRIPTION: Teamsters Local 554 is on strike against Premier-Midwest Beer & Beverage, and need bodies to march on the picket line.This is a 24/7 picket, so they will be there any time of the day.Please park on the street, on the east side of 134th St, and stay on the right-of-way.Please note that the only bathroom on premise is a porta potty. The closest bathroom is the Love's Travel Stop on 14375 Cornhusker Road, Omaha, NE 68138, which is about a three-minute drive. \n ID: [ 7d3791df-133e-458c-9624-3e58f78a963c ] \n LINK: [ https://actionnetwork.org/events/9-28-2026-premier-beverage-strike-picket ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
