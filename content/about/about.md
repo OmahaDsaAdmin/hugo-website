@@ -7,7 +7,7 @@ layout: single
 
 We are a political and activist organization, not a party; through campus and community-based chapters, DSA members use a variety of tactics, from legislative to direct action, to fight for reforms that empower working people.
 
-![fraying american flag blowing in the wind](/images/Flag_Focused_001.webp)
+![A group photo of some of Omaha DSA's chapter members](/images/chapter-group-photo.png)
 
 ## Who We Are
 
