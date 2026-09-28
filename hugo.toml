@@ -27,6 +27,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         {Name = "Get Involved", URL = "get-involved/", HasChildren = false},
         {Name = "Shop", URL = "shop/", HasChildren = false},
         {Name = "Posts", URL = "posts/", HasChildren = false, Limit = 5},
+        {Name = "Donate", URL = "https://www.paypal.com/qrcodes/managed/46c64040-9347-4ebb-a279-b093c7589889", HasChildren = false, External = true},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
