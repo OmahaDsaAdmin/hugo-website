@@ -1,14 +1,10 @@
-<p>hello donate</p>
-
-<!-- Set up a container element for the button -->
-<div id="paypal-button-container"></div>
-<!-- Include the PayPal JavaScript SDK. Replace `YOUR_CLIENT_ID` with your client ID.-->
-<!-- Note that `enable-funding=venmo` is added as a query parameter -->
 <script
-    src="https://www.paypal.com/sdk/js?client-id=BAAyTRU3lQrObaG6Fe4pY_CYsOLs6deftQ0PSX2NVtIfXvZthv46_AGxndor0lQCIqgtlLwASBCGZaZ61I&enable-funding=venmo&currency=USD"></script>
-<script>
-    // Render the Venmo button into #paypal-button-container
-    paypal.Buttons().render('#paypal-button-container')
+    src="https://www.paypal.com/sdk/js?client-id=BAAyTRU3lQrObaG6Fe4pY_CYsOLs6deftQ0PSX2NVtIfXvZthv46_AGxndor0lQCIqgtlLwASBCGZaZ61I&components=hosted-buttons&enable-funding=venmo&currency=USD">
+    </script>
 
-    //Here you go!  Thank you <script src="https://www.paypal.com/sdk/js?client-id=&components=hosted-buttons&enable-funding=venmo">
+<div id="paypal-container-44HWU57FRHZ74"></div>
+<script>
+    paypal.HostedButtons({
+        hostedButtonId: "44HWU57FRHZ74",
+    }).render("#paypal-container-44HWU57FRHZ74")
 </script>

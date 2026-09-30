@@ -1,7 +1,7 @@
 ---
 title: "Donate"
-date: 2025-03-16
-draft: true
+date: 2026-09-29
+draft: false
 layout: single
 ---
 
