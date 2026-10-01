@@ -134,6 +134,12 @@ DESCRIPTION: Teamsters Local 554 is on strike against Premier-Midwest Beer & Bev
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sign up to table in No Kings 4
+DTSTART;TZID=America/Chicago:20261017T090000
+DESCRIPTION: Omaha DSA will be tabling in No Kings 4.0, and we need Chapter Members to help us set up, run, and tear down the table itself.No Kings 4.0 will be 11am-2pm in Gallagher Park, but we need folks here before and after as well to help with logistics. \n ID: [ f779570e-5ad8-4f0d-ac43-f8d06e83d424 ] \n LINK: [ https://actionnetwork.org/events/sign-up-to-table-in-no-kings-4 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
