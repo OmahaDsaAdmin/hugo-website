@@ -146,6 +146,12 @@ DESCRIPTION: Ongoing meeting series for the ODSA MAWG. Come down and see our man
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:October 2026 General meeting
+DTSTART;TZID=America/Chicago:20261020T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include reports from working groups and committees, information on upcoming events, and decision points that need to be voted on. The agenda will be released a minimum of 5 days prior to the meeting. Even if you have never attended a meeting, please feel free to join us! Dinner will be provided!General Meetings are usually conducted both in-person and virtually. Important: Once you RSVP you will receive an email with a link to details. Follow the link labeled, "Click here to view the event details" for specific location information and access to the virtual meeting. \n ID: [ 8c69b81a-9c25-4375-8b9d-43a726e6d1be ] \n LINK: [ https://actionnetwork.org/events/october-2026-general-meeting-3 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
