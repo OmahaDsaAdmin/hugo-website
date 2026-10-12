@@ -158,6 +158,18 @@ DESCRIPTION: Every month, the tech committee meets to discuss on-going work and 
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tabling Training - Talking to Non-Socialists About Socialism
+DTSTART;TZID=America/Chicago:20261015T180000
+DESCRIPTION: Learn best-practices for talking to non-socialists. Important for chapter members tabling at events. \n ID: [ 5f9b72d9-6e6f-464a-a022-e40d3fa9e5b2 ] \n LINK: [ https://actionnetwork.org/events/tabling-training-talking-to-non-socialists-about-socialism ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Membership & Outreach Committee Meeting
+DTSTART;TZID=America/Chicago:20261018T140000
+DESCRIPTION: Monthly meeting of the Membership & Outreach Committee. \n ID: [ 88017478-e5db-4e6e-881b-7b537a59376e ] \n LINK: [ https://actionnetwork.org/events/membership-outreach-committee-meeting-2 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
