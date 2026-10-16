@@ -1,0 +1,33 @@
+{{ $Src1 := .Get "Src1" }}
+{{ $Alt1 := .Get "Alt1" }}
+{{ $Text1 := .Inner }}
+<div>
+    <div class="two-column-wrapper">
+        <div class="tcw-cell">
+            <img src="{{ $Src1 }}" alt="{{ $Alt1 }}" />
+        </div>
+        <div class="tcw-cell">
+            <div>{{ $Text1 }}</div>
+        </div>
+    </div>
+</div>
+
+<style>
+    @media (min-width: 600px) {
+        .two-column-wrapper {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            align-self: start;
+        }
+    }
+
+    .tcw-cell {
+        padding: 10px;
+    }
+
+    .tcw-cell>img,
+    .tcw-cell>div>p {
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+</style>

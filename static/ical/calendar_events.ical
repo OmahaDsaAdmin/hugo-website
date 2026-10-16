@@ -134,6 +134,42 @@ DESCRIPTION: Teamsters Local 554 is on strike against Premier-Midwest Beer & Bev
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sign up to table in No Kings 4
+DTSTART;TZID=America/Chicago:20261017T090000
+DESCRIPTION: Omaha DSA will be tabling in No Kings 4.0, and we need Chapter Members to help us set up, run, and tear down the table itself.No Kings 4.0 will be 11am-2pm in Gallagher Park, but we need folks here before and after as well to help with logistics. \n ID: [ f779570e-5ad8-4f0d-ac43-f8d06e83d424 ] \n LINK: [ https://actionnetwork.org/events/sign-up-to-table-in-no-kings-4 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - October 14th, 2026
+DTSTART;TZID=America/Chicago:20261014T180000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. Come down and see our many projects! \n ID: [ 4aed1e2d-3fd5-4031-9d68-964393504d89 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-october-14th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:October 2026 General meeting
+DTSTART;TZID=America/Chicago:20261020T180000
+DESCRIPTION: General Meetings are times for chapter membership to gather and discuss what we're working on, what we need help with, and what we should be aware of. Agendas typically include reports from working groups and committees, information on upcoming events, and decision points that need to be voted on. The agenda will be released a minimum of 5 days prior to the meeting. Even if you have never attended a meeting, please feel free to join us! Dinner will be provided!General Meetings are usually conducted both in-person and virtually. Important: Once you RSVP you will receive an email with a link to details. Follow the link labeled, "Click here to view the event details" for specific location information and access to the virtual meeting. \n ID: [ 8c69b81a-9c25-4375-8b9d-43a726e6d1be ] \n LINK: [ https://actionnetwork.org/events/october-2026-general-meeting-3 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly Omaha DSA Tech Committee Meeting
+DTSTART;TZID=America/Chicago:20261014T200000
+DESCRIPTION: Every month, the tech committee meets to discuss on-going work and priorities. The objective for each meeting is for each member to come away with at least 1 deliverable they can work towards for the next meeting.This is also a good time to network, plan future projects, and discuss the role of technology in the greater socialist movement.**NOTE:** Meeting will be held at 8PM virtually in OmahaDSA Signal. Send message in Discord to join if you haven't done so already. \n ID: [ 2d542004-207f-4e0d-8e38-48ea14973320 ] \n LINK: [ https://actionnetwork.org/events/monthly-omaha-dsa-tech-committee-meeting-7 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tabling Training - Talking to Non-Socialists About Socialism
+DTSTART;TZID=America/Chicago:20261015T180000
+DESCRIPTION: Learn best-practices for talking to non-socialists. Important for chapter members tabling at events. \n ID: [ 5f9b72d9-6e6f-464a-a022-e40d3fa9e5b2 ] \n LINK: [ https://actionnetwork.org/events/tabling-training-talking-to-non-socialists-about-socialism ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Membership & Outreach Committee Meeting
+DTSTART;TZID=America/Chicago:20261018T140000
+DESCRIPTION: Monthly meeting of the Membership & Outreach Committee. \n ID: [ 88017478-e5db-4e6e-881b-7b537a59376e ] \n LINK: [ https://actionnetwork.org/events/membership-outreach-committee-meeting-2 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].

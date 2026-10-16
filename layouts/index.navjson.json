@@ -1,10 +1,16 @@
+{{- /* Mirrors themes/poison/layouts/partials/sidebar/menu.html: config menu entries
+       that resolve to a section, then the sidebar's hardcoded links. Keep in sync. */ -}}
 {{- $items := slice -}}
 {{- range .Site.Params.menu -}}
-  {{- $url := .URL -}}
-  {{- if not (hasPrefix $url "http") -}}{{- $url = printf "%s/%s" (strings.TrimSuffix "/" site.BaseURL) (strings.TrimPrefix "/" $url) -}}{{- end -}}
-  {{- $items = $items | append (dict "name" .Name "url" $url "external" (hasPrefix .URL "http")) -}}
+  {{- $p := site.GetPage (strings.TrimSuffix "/" .URL) -}}
+  {{- if and $p $p.IsSection -}}{{- $items = $items | append (dict "name" .Name "url" (absURL .URL)) -}}{{- end -}}
 {{- end -}}
+{{- $items = $items | append
+  (dict "name" "Shop" "url" "https://www.rayguncustom.com/collections/omaha-dsa")
+  (dict "name" "Donate" "url" (absURL "donate/"))
+  (dict "name" "Mutual Aid" "url" (absURL "mawg/"))
+  (dict "name" "Rideshare" "url" (absURL "rideshare/")) -}}
 {{- $footer := slice
   (dict "name" "SMS Terms" "url" (absURL "sms-terms/"))
   (dict "name" "SMS Privacy" "url" (absURL "sms-privacy/")) -}}
-{{- dict "brand" site.Params.brand "menu" $items "footer" $footer | jsonify (dict "indent" "  ") -}}
+{{- dict "brand" site.Params.brand "menu" $items "footer" $footer | jsonify -}}
