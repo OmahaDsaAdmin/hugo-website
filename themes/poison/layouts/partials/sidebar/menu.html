@@ -9,7 +9,7 @@
                 <li class="heading">{{ $menu_item.Name }}</li>
             {{ else if $menu_item.External }}
                 <li class="bullet">
-                    <a href="{{ .Site.BaseURL}}{{ $menu_item.URL }}" target="_blank" rel="noopener noreferrer">{{ $menu_item.Name }}</a>
+                    <a href="{{ if hasPrefix $menu_item.URL "http" }}{{ $menu_item.URL }}{{ else }}{{ .Site.BaseURL}}{{ $menu_item.URL }}{{ end }}" target="_blank" rel="noopener noreferrer">{{ $menu_item.Name }}</a>
                 </li>
             {{ end }}
 

@@ -5,6 +5,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [params]
     brand = "Omaha DSA"                      # name of your site - appears in the sidebar
+    author = { name = "Omaha DSA" }          # used in the sidebar copyright line
     remote_brand_image = '/images/omaha-logo.webp' # path to a remote file
     #brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
     description = "Democratic Socialists of America" # Used as default meta description if not specified in front matter
@@ -27,6 +28,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         {Name = "Get Involved", URL = "get-involved/", HasChildren = false},
         {Name = "Shop", URL = "shop/", HasChildren = false},
         {Name = "Posts", URL = "posts/", HasChildren = false, Limit = 5},
+        {Name = "Rideshare", URL = "https://odsa-rideshare-staging.onrender.com/rideshare/", External = true},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
@@ -65,6 +67,17 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     table_border_color = "#E5E5E5"          # default is #E5E5E5
     table_stripe_color = "#F9F9F9"          # default is #F9F9F9
     text_color = "#222"                     # default is #222
+
+# nav.json: machine-readable copy of the sidebar menu (served at /nav.json) so
+# sub-apps like the rideshare app can render the same global links.
+[outputFormats.navjson]
+    mediaType = "application/json"
+    baseName = "nav"
+    isPlainText = true
+    notAlternative = true
+
+[outputs]
+    home = ["HTML", "RSS", "navjson"]
 
 [taxonomies]
     series = 'series'
