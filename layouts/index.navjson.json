@@ -9,7 +9,7 @@
   (dict "name" "Shop" "url" "https://www.rayguncustom.com/collections/omaha-dsa")
   (dict "name" "Donate" "url" (absURL "donate/"))
   (dict "name" "Mutual Aid" "url" (absURL "mawg/"))
-  (dict "name" "Rideshare" "url" (absURL "rideshare/")) -}}
+  (dict "name" "Rideshare" "url" "https://app.omahadsa.org/rideshare/") -}}
 {{- $footer := slice
   (dict "name" "SMS Terms" "url" (absURL "sms-terms/"))
   (dict "name" "SMS Privacy" "url" (absURL "sms-privacy/")) -}}
