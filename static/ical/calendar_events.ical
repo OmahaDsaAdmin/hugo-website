@@ -170,6 +170,12 @@ DESCRIPTION: Monthly meeting of the Membership & Outreach Committee. \n ID: [ 88
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ODSA - Mutual Aid Working Group - October 26th, 2026
+DTSTART;TZID=America/Chicago:20261026T180000
+DESCRIPTION: Ongoing meeting series for the ODSA MAWG. Virtual event this time!We will be meeting on discord. Let us know if you need help gaining access. \n ID: [ d1f852f3-518a-4545-8b27-461b095b4bc4 ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-october-26th-2026 ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
