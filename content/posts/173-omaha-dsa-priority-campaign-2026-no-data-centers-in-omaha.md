@@ -4,7 +4,7 @@ title: "Omaha DSA Priority Campaign 2026: No Data Centers in Omaha!"
 
 date: "2026-10-17"
 draft: false
-author: "Renais Klein"
+author: "Ecosocialist Working Group"
 hideToc: true
 ---
 
