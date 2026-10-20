@@ -26,6 +26,17 @@ Our chapter has a number of sub-groups where members can collaborate and focus o
 8. Tech Committee
 9. Membership and Outreach Committee
 
+## Rideshare to Food Pantries
+
+Omaha DSA Rideshare is a mutual-aid program: volunteer drivers give neighbors free rides to food pantries in the Omaha and Council Bluffs metro. Need a ride? Request one below and we'll match you with a driver. Have a car and a couple of free hours? Sign up to drive.
+
+{{< button href="https://app.omahadsa.org/rideshare/request" >}}
+Request a Ride
+{{< /button >}}
+{{< button href="https://app.omahadsa.org/rideshare/volunteer" >}}
+Volunteer to Drive
+{{< /button >}}
+
 ![Amnesty International Letter Writing Campaign](https://www.amnesty.org/en/wp-content/uploads/2023/12/294501-1468x710.jpg)
 
 ## Letter Writing Campaigns
