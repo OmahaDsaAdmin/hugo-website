@@ -176,6 +176,12 @@ DESCRIPTION: Ongoing meeting series for the ODSA MAWG. Virtual event this time!W
 STATUS: Published = true
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Membership & Outreach Committee Monthly Meeting
+DTSTART;TZID=America/Chicago:20261115T140000
+DESCRIPTION: Monthly meeting of the Omaha DSA Membership & Outreach Committee. We'll discuss membership growth, outreach efforts, and upcoming events. \n ID: [ d6ee6f0c-c9b1-4297-a450-0e59b500003e ] \n LINK: [ https://actionnetwork.org/events/membership-outreach-committee-monthly-meeting ].
+STATUS: Published = true
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ODSA - Mutual Aid Working Group Grocery Delivery - March 22nd, 2026
 DTSTART;TZID=America/Chicago:20260322T150000
 DESCRIPTION: Ongoing meeting series for the ODSA MAWG. \n ID: [ 1f233f5f-347d-4304-a287-6aceda6065eb ] \n LINK: [ https://actionnetwork.org/events/odsa-mutual-aid-working-group-grocery-delivery-march-15th-2026-2 ].
