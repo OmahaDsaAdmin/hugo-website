@@ -32,7 +32,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
     # Links to your socials.  Comment or delete any you don't need/use. 
     #discord_url = "https://discord.com"
-    email_url = "mailto:omahadsa@gmail.com"
+    email_url = "mailto:info@omahadsa.org"
     #facebook_url = "https://facebook.com"
     #youtube_url = "https://youtube.com"
     #bluesky_url = "https://bsky.app"

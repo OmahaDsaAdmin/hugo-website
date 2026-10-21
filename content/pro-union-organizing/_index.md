@@ -4,7 +4,7 @@ draft: false
 layout: single
 ---
 
-These are the unionizing efforts we are supporting in Omaha. If you would like our support to form a union at your workplace, [send us an email](mailto:omahadsa@gmail.com) with the subject line "New Union."
+These are the unionizing efforts we are supporting in Omaha. If you would like our support to form a union at your workplace, [send us an email](mailto:info@omahadsa.org) with the subject line "New Union."
 
 **THE UNION UNION:** Workers at Omaha's own Union for Contemporary Art announced their intention to unionize. A supermajority of staff signed union cards and demanded voluntary recognition at the start of the working day on February 25, 2025.
 
