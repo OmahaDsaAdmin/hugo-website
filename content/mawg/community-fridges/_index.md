@@ -35,7 +35,7 @@ The Omaha DSA Mutual Aid Group has been working to partner with community organi
 Omaha DSA Fridges
 
 We are currently testing community fridges in City of Omaha Community Centers.
-We are looking to deploy more fridges at homes and businesses throughout the Omaha area. Especially in a location that can be available 24/7. If you or someone you know is interested in hosting, please contact omahadsa@gmail.com.
+We are looking to deploy more fridges at homes and businesses throughout the Omaha area. Especially in a location that can be available 24/7. If you or someone you know is interested in hosting, please contact info@omahadsa.org.
 
 # Look for an update on the progress by December 2026!
 
