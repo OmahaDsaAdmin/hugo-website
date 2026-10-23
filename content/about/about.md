@@ -33,4 +33,4 @@ You can use the national DSA’s [chapter lookup tool](https://chapters.dsausa.o
 
 Omaha DSA is organizing right now. If you support democracy and the working class, sign-up for our mailing list to join the fight for positive change in our city.
 
-{{< actionNetwork >}}
+{{< joinIframe >}}

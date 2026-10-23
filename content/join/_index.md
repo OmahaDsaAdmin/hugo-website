@@ -14,4 +14,4 @@ After you become a national member, send an email to [info@omahadsa.org](mailto:
 
 Most importantly, make sure you sign up for our chapter's mailing list so you can keep up with our latest activities:
 
-{{< actionNetwork >}}
+{{< joinIframe >}}

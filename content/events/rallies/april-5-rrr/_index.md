@@ -29,4 +29,4 @@ If you're reading this, it means you went to the April 5th _Remove Reverse Recla
 
 Our membership is exploding, but we need every leftist in this husker-red state to join us. Please, follow the instructions on the following page to [join the Omaha DSA](/#mailing-list).
 
-{{< actionNetwork >}}
+{{< joinIframe >}}
